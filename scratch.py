@@ -2,8 +2,12 @@ from brave_summarizer import summarizer
 from brave import brave_req
 from groq_completion import groq_completion
 
-# a = summarizer("Introibo ad altare Dei")
-# print(a)
+a = summarizer("Introibo ad altare Dei")
+print(a)
+print()
+print('---------------------------------')
+print('---------------------------------')
+print()
 
 c = brave_req("Introibo ad altare Dei")
 print(c)
