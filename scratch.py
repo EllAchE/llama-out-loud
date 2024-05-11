@@ -1,16 +1,15 @@
-from brave_summarizer import summarizer
-from brave import brave_req
+from brave import brave_req, summarizer
 from groq_completion import groq_completion
 
-# a = summarizer("Introibo ad altare Dei")
-# print(a)
+a = summarizer("Introibo ad altare Dei")
+print(a)
 # print()
 # print('---------------------------------')
 # print('---------------------------------')
 # print()
 
-c = brave_req("how many copies of Ulysses have been sold?")
-print(c)
+# c = ("how many copies of Ulysses have been sold?")
+# print(c)
 
 # ulys_txt = ''' Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:
 

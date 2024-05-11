@@ -35,3 +35,4 @@ def groq_completion(user_request, page_text):
     print(chat_completion.choices[0].message.content)
 
     return chat_completion
+
