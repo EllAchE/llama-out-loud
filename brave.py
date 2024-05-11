@@ -1,6 +1,11 @@
 import requests
 import os
 
+'''
+Things to ask about
+- how big is this now
+'''
+
 def brave_req(query: str):
     url = f"https://api.search.brave.com/res/v1/web/search?q={query.replace(' ', '+')}"
 

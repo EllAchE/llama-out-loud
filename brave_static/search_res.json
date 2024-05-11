@@ -1,0 +1,1019 @@
+{
+  "query": {
+    "original": "how many copies of Ulysses have been sold?",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Ulysses",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "1922 novel by James Joyce",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": 1,
+        "label": "novel",
+        "long_desc": "Ulysses is a modernist novel by the Irish writer James Joyce. Parts of it were first serialized in the American journal The Little Review from March 1918 to December 1920, and the entire work was published in Paris by Sylvia Beach on 2 February 1922, Joyce's fortieth birthday.",
+        "attributes": [
+          [
+            "Author",
+            "<a href='https://en.wikipedia.org/wiki/James_Joyce'>James Joyce</a>"
+          ],
+          ["Language", "English"],
+          [
+            "Genre",
+            "<a href='https://en.wikipedia.org/wiki/Modernism'>Modernist</a> novel"
+          ],
+          [
+            "Set in",
+            "<a href='https://en.wikipedia.org/wiki/Dublin'>Dublin</a>, <a href='https://en.wikipedia.org/wiki/Bloomsday'>16–17 June 1904</a>"
+          ],
+          [
+            "Publisher",
+            "<a href='https://en.wikipedia.org/wiki/Shakespeare_and_Company_(1919%E2%80%931941)'>Shakespeare and Company</a>"
+          ],
+          ["Publication date", "2 February 1922"],
+          ["Media type", "Print: hardback"],
+          ["Pages", "732"],
+          ["Dewey Decimal", "823.912"],
+          ["LC Class", "PR6019.O8 U4 1922"],
+          [
+            "Preceded by",
+            "<a href='https://en.wikipedia.org/wiki/Exiles_(play)'>Exiles</a>"
+          ],
+          [
+            "Text",
+            "<a href='https://en.wikisource.org/wiki/Ulysses_(novel)'>Ulysses (novel)</a> at <a href='https://en.wikipedia.org/wiki/Wikisource'>Wikisource</a>"
+          ]
+        ],
+        "profiles": [
+          {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+            "long_name": "en.wikipedia.org",
+            "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+          },
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce",
+            "long_name": "britannica.com",
+            "img": "https://imgs.search.brave.com/hcLf2uAEj_yDbSzYRgdkKMQIWeIcfmsuchdJkpCh2_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v"
+          },
+          {
+            "name": "Goodreads",
+            "url": "https://www.goodreads.com/work/editions/2368224",
+            "long_name": "goodreads.com",
+            "img": "https://imgs.search.brave.com/3AhhL7k0w3fAz7QrBn5KRSCMOGzEO5eVo4jJhIfH74A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ0YzMxZDAz/NmNkYTYzMWE2Mjlm/M2IzNzk5OTZlZTIz/YjczZjRmZTQxYzU0/YjQ5YmYyNDM2NTlk/ZWFiZjFlMi93d3cu/Z29vZHJlYWRzLmNv/bS8"
+          },
+          {
+            "name": "Discogs",
+            "url": "https://books.discogs.com/work/405385",
+            "long_name": "books.discogs.com",
+            "img": "https://imgs.search.brave.com/U0UkHTXJYP22-Scf6AgVTjpEJLCBLDMYuk_I9x2UWYk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y3NmFlMDUy/NjdhZDU1ZmNhOWY1/YzBmZWFlZGMyNDhl/YWM4ZDNjZTJmMTBh/MTYxMjdjOWJmZDYw/ZDBhZmRiZC9ib29r/cy5kaXNjb2dzLmNv/bS8"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/things/289905a7-1b6e-4bf4-a351-3cb4ab02fb92",
+            "long_name": "British Broadcasting Corporation",
+            "img": "https://imgs.search.brave.com/YzN5JuligKE-3JKR26Y8XxIyhq5T15YLvP1ybZJvg84/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTEzZDM0NjY3/NDc3MDEyZjI5ZGY3/OTJkMmMyOWU1MGNj/ZjQ5ZGU0Y2U4ZTEx/NzYzMWI1NWE2NDY4/YTk0MThkZC93d3cu/YmJjLmNvLnVrLw"
+          },
+          {
+            "name": "LOC",
+            "url": "https://id.loc.gov/authorities/n92029109",
+            "long_name": "Library of Congress",
+            "img": "https://imgs.search.brave.com/Ym5rn_5y_vE79NovleU0vDRAhX-Nsse8MelHSW4qRx0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzMyOGFmMGY2/NDAyODg4ZjFhZjNm/Zjc2MWM4Njg4Mzk2/M2Q0YzJiNDhmMmM0/ZDg5NGFlM2ZmNzc1/ZGEyZjA0Yy9pZC5s/b2MuZ292Lw"
+          },
+          {
+            "name": "Wikidata",
+            "url": "http://www.wikidata.org/wiki/Q6511",
+            "long_name": "wikidata.org",
+            "img": "https://imgs.search.brave.com/TUjlO5L5z3xVSDA1W-mHNui_iel1Zx4svFyj4FUH6GI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzdkMGIyYTky/OTJjN2RjNDEyNWYx/MGQxNjAzNmZlNDk4/ZTRmNDczNjk0ZTZl/N2IxZjI0NTVkMGE3/YTBiYjEzYi93d3cu/d2lraWRhdGEub3Jn/Lw"
+          },
+          {
+            "name": "Mythoskop",
+            "url": "https://id.mythoskop.de/q50",
+            "long_name": "id.mythoskop.de",
+            "img": "https://imgs.search.brave.com/qyGeOG4XR0LdJGgQNs0GJnyllnpIMpR1p8lNQkurfFY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhOTRlNjgx/NGJhZWM3MjYzNDVm/MWQ2NjUyYzQ1ZGVi/NDFiMzM2MzM3NGY4/MzRlMzgyNWI2ZDI5/MTdjMjA2Yy9pZC5t/eXRob3Nrb3AuZGUv"
+          },
+          {
+            "name": "Fantlab",
+            "url": "https://fantlab.ru/work289273",
+            "long_name": "fantlab.ru",
+            "img": "https://imgs.search.brave.com/34nRDCqdbGXvTzN_5L9AXXOCmsvgXhvy2ebJtTwxono/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFhNGNlNmZi/ZjhhNDM5NDE5ODFl/ZDU5ZDk1OTZjOGEz/ZTliYWZjYWFkNTE4/YWY5OTgyNmMzZGVj/ZjdkZjhlMS9mYW50/bGFiLnJ1Lw"
+          },
+          {
+            "name": "Idref",
+            "url": "https://www.idref.fr/027383113",
+            "long_name": "idref.fr",
+            "img": "https://imgs.search.brave.com/wpr7sLGdw4ICtIB3EWANV9F8Y8wwlrFYRDqjpboZSG8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjZjNjA2ZmMw/MjcxODVjZjFhODFm/ZDc5OWJjMzYxYmNl/N2U5NWQwZmIzOGY0/Yjk1MWIxMGVkZWI3/YThkMDdlNy93d3cu/aWRyZWYuZnIv"
+          }
+        ],
+        "ratings": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+            "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "images": [
+          {
+            "src": "https://imgs.search.brave.com/1ryuviuR-x9w1bLLGze4z9haUPuYDyS2S3y-i5yVSBg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2FiL0pv/eWNlVWx5c3NlczIu/anBnLzUxMnB4LUpv/eWNlVWx5c3NlczIu/anBn",
+            "alt": "First edition of Ulysses by James Joyce, published by Paris-Shakespeare, 1922. The colour of the cover was meant to match the blue of the Greek flag.[1][2]",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JoyceUlysses2.jpg/512px-JoyceUlysses2.jpg",
+            "logo": false
+          },
+          {
+            "src": "https://imgs.search.brave.com/nhDCluVLWRReQDrbG1Hvj6mpnspdUx69Bz_kFig38hM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzlkL0phbWVzX0pv/eWNlX1VseXNzZXNf/MXN0X0VkaXRpb25f/MTkyMl9HQi5qcGc",
+            "alt": "james joyce ulysses 1st edition 1922 gb",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/James_Joyce_Ulysses_1st_Edition_1922_GB.jpg",
+            "logo": false
+          },
+          {
+            "src": "https://imgs.search.brave.com/5kr3t-XzxH9HyFY_vUN53fqhba5lqyE5qD15k-FoxTo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzAyL1VseXNzZXNf/dW5kZXJ0YWtlci5q/cGc",
+            "alt": "ulysses undertaker",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ulysses_undertaker.jpg",
+            "logo": false
+          },
+          {
+            "src": "https://imgs.search.brave.com/Wx91-5q5kr_6mlvElSu2lJp--gAsMty2I5YigIyJpvA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2MwL1VseXNzZXND/b3Zlci5qcGc",
+            "alt": "ulyssescover",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/UlyssesCover.jpg",
+            "logo": false
+          }
+        ],
+        "subtype": "generic",
+        "found_in_urls": []
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      { "type": "web", "index": 0, "all": false },
+      { "type": "infobox", "index": 0, "all": false },
+      { "type": "web", "index": 1, "all": false },
+      { "type": "web", "index": 2, "all": false },
+      { "type": "web", "index": 3, "all": false },
+      { "type": "web", "index": 4, "all": false },
+      { "type": "web", "index": 5, "all": false },
+      { "type": "web", "index": 6, "all": false },
+      { "type": "web", "index": 7, "all": false },
+      { "type": "web", "index": 8, "all": false },
+      { "type": "web", "index": 9, "all": false },
+      { "type": "web", "index": 10, "all": false },
+      { "type": "web", "index": 11, "all": false },
+      { "type": "web", "index": 12, "all": false },
+      { "type": "web", "index": 13, "all": false },
+      { "type": "web", "index": 14, "all": false },
+      { "type": "web", "index": 15, "all": false },
+      { "type": "web", "index": 16, "all": false },
+      { "type": "web", "index": 17, "all": false },
+      { "type": "web", "index": 18, "all": false },
+      { "type": "web", "index": 19, "all": false }
+    ],
+    "top": [{ "type": "chatllm", "index": 0, "all": false }],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "First edition of Ulysses sells for record £275,000 | James Joyce | The Guardian",
+        "url": "https://www.theguardian.com/books/2009/jun/04/ulysses-sells-record-price",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The dealer who made the sale, Pom ... had been unaccounted for. &quot;In terms of collectability, <strong>Ulysses</strong> is considered to be the number one 20th-century book. This is such a find and it is in such fabulous, pristine condition.&quot; Throughout the 1920s the book was banned in the UK and the US and any import or sale involved a degree of subterfuge. This <strong>copy</strong> <strong>was</strong> <strong>sold</strong> at the subversive Manhattan bookshop Sunwise ...",
+        "page_age": "2009-06-04T15:49:00",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/books/2009/jun/04/ulysses-sells-record-price",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/9NJ5RrmLraV8oAt2-ItS_A5rM7MNWTBcXog1rbJwni0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/9NJ5RrmLraV8oAt2-ItS_A5rM7MNWTBcXog1rbJwni0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› books  › 2009  › jun  › 04  › ulysses-sells-record-price"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mbvUIJhCEhDM8--dyaH4C7X_PVnf-63XgC1OwBxlAmk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L3N0YXRpYy9zeXMt/aW1hZ2VzL0d1YXJk/aWFuL1BpeC9waWN0/dXJlcy8yMDA5LzYv/NC8xMjQ0MTMyNzc3/NTQ0L2phbWVzLWpv/eWNlLTAwMS5qcGc_/d2lkdGg9MTIwMCZo/ZWlnaHQ9NjMwJnF1/YWxpdHk9ODUmYXV0/bz1mb3JtYXQmZml0/PWNyb3Amb3Zlcmxh/eS1hbGlnbj1ib3R0/b20lMkNsZWZ0Jm92/ZXJsYXktd2lkdGg9/MTAwcCZvdmVybGF5/LWJhc2U2ND1MMmx0/Wnk5emRHRjBhV012/YjNabGNteGhlWE12/ZEdjdFlXZGxMVEl3/TURrdWNHNW4mZW5h/YmxlPXVwc2NhbGUm/cz0xMGNiMTQ5MzE4/ZDgyM2E5MzJhNTA2/M2IxMmExYmNiMA",
+          "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2009/6/4/1244132777544/james-joyce-001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMDkucG5n&enable=upscale&s=10cb149318d823a932a5063b12a1bcb0",
+          "logo": false
+        },
+        "age": "June 4, 2009",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Mark Brown",
+              "url": "https://www.theguardian.com/profile/markbrown"
+            }
+          ],
+          "date": "Jun 04, 2009",
+          "publisher": {
+            "type": "organization",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/XCbWpGT4BFC62vMKXmBIIdVMxb0AdJbjfqeIZVoQhLw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWRzLmd1aW0uY28u/dWsvMjAxOC8wMS8z/MS9UaGVHdWFyZGlh/bl9BTVAucG5n",
+              "original": "https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png"
+            }
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "The dealer who made the sale, Pom Harrington, said the book was one of only four copies of that first edition print run, all signed by Joyce, which had been unaccounted for. \"In terms of collectability, Ulysses is considered to be the number one 20th-century book. This is such a find and it is in such fabulous, pristine condition.\" Throughout the 1920s the book was banned in the UK and the US and any import or sale involved a degree of subterfuge. This copy was sold at the subversive Manhattan bookshop Sunwise Turn, an eclectic shop where patrons could also pick up Peruvian fabrics or the mystic teachings of Gurdjieff.",
+          "The astonishingly well-preserved and previously lost edition of the book, bought surreptitiously in a Manhattan bookshop despite it being banned in the US, was sold to a private buyer in London on the opening day of one of the world's biggest antiquarian book fairs. Ulysses, hailed by some as a modernist masterpiece, follows the events of one day and is one of those novels that people often never quite get round to finishing, or in many cases starting. Joyce's vast novel was met with bafflement and anger when it was first published in 1922 with one reviewer complaining that it \"appears to have been written by a perverted lunatic who has made a speciality of the literature of the latrine\".",
+          "Well-preserved copy of James Joyce's 1922 classic had been unread, except for the racy bits",
+          "This copy was sold at the subversive Manhattan bookshop Sunwise Turn, an eclectic shop where patrons could also pick up Peruvian fabrics or the mystic teachings of Gurdjieff. It was bought by a Mrs Hewitt Morgan and then passed down the family, stored in its original box, unopened and away from the light. \"The colour is amazing – this lovely Aegean Sea, Greek flag blue which would normally have darkened into a more dirty blue but because it has been in a box it is a complete thing of beauty,\" said Harrington."
+        ]
+      },
+      {
+        "title": "Ulysses (novel) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "New York: Random House, 1934: The first authorised U.S. edition, published after the decision in United States v. One Book Called <strong>Ulysses</strong> finding that the book was not obscene. Random House&#x27;s founder Bennett Cerf chose to base this edition on a <strong>copy</strong> <strong>of</strong> the pirated Samuel Roth edition of 1929, ...",
+        "page_age": "2024-05-10T23:38:50",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Ulysses_(novel)"
+        },
+        "age": "1 day ago",
+        "extra_snippets": [
+          "New York: Random House, 1934: The first authorised U.S. edition, published after the decision in United States v. One Book Called Ulysses finding that the book was not obscene. Random House's founder Bennett Cerf chose to base this edition on a copy of the pirated Samuel Roth edition of 1929, which led it to reproduce many of that edition's errors.",
+          "Less subject to differing national editorial theories, however, is the claim that for hundreds of pages—about half the episodes of Ulysses—the extant manuscript is purported to be a \"fair copy\" that Joyce made for sale to a potential patron. (As it turned out, John Quinn, the Irish-American lawyer and collector, purchased the manuscript.)",
+          "In both the UK and US, Everyman's Library also republished the 1960 Ulysses. In 1992, Penguin dropped Gabler and reprinted the 1960 text. The Gabler version remained available from Vintage International. Reprints of the 1922 first edition have also become widely available since 1 January 2012, when this edition entered the public domain under U.S. copyright law.",
+          "In 1992, W. W. Norton announced that it would publish Kidd's much-anticipated edition of Ulysses as part of \"The Dublin Edition of the Works of James Joyce\" series. This book had to be withdrawn when the Joyce estate objected. For a period thereafter the estate refused to authorise any further editions of Joyce's work. This ended when it agreed to allow Wordsworth Editions to bring out a bargain version of the novel (a reprint of the 1932 Odyssey Press edition) in January 2010, ahead of copyright expiration in 2012.",
+          "Irene Gammel extends this argument to suggest that the obscenity allegations brought against The Little Review were influenced by the Baroness Elsa von Freytag-Loringhoven's more explicit poetry, which had appeared alongside the serialization of Ulysses. At the trial in 1921 the magazine was declared obscene and, as a result, Ulysses was effectively banned in the United States. Throughout the 1920s, the United States Post Office Department burned copies of the novel."
+        ]
+      },
+      {
+        "title": "U.S. Sales Of the Book At 880,000 - The New York Times",
+        "url": "https://www.nytimes.com/1972/02/02/archives/us-sales-of-the-book-at-880000.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the United States, Random House, which has published “Ulysses” since 1934, when a court ruled that it was riot obscene, has sold <strong>880,000 copies</strong>. Of these, 544,000 have been In the Modern Library Giant edition, 69,000 in the regular edition, and, since 1967 275,000 in the Vintage paperback.",
+        "page_age": "1972-02-02T05:00:00",
+        "profile": {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/1972/02/02/archives/us-sales-of-the-book-at-880000.html",
+          "long_name": "The New York Times",
+          "img": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nytimes.com",
+          "hostname": "www.nytimes.com",
+          "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+          "path": "› 1972  › 02  › 02  › archives  › us-sales-of-the-book-at-880000.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fbwq0nGsoN39AQGCpJeyJMKZ6VllcueTX4PTqDWaNbk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L3ZpLWFzc2V0cy9p/bWFnZXMvc2hhcmUv/MTIwMHg2NzVfbmFt/ZXBsYXRlLnBuZw",
+          "original": "https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png",
+          "logo": false
+        },
+        "age": "February 2, 1972",
+        "article": {
+          "author": [{ "type": "person", "name": "The New York Times" }],
+          "date": "Feb 02, 1972",
+          "publisher": { "type": "organization", "name": "The New York Times" },
+          "isAccessibleForFree": false
+        },
+        "extra_snippets": [
+          "In the United States, Random House, which has published “Ulysses” since 1934, when a court ruled that it was riot obscene, has sold 880,000 copies. Of these, 544,000 have been In the Modern Library Giant edition, 69,000 in the regular edition, and, since 1967 275,000 in the Vintage paperback. This edition is now selling 33,500 copies a year.",
+          "Frances Steloff, who recently retired after 52 years’ ownership of the Gotham Book Mart, a store catering to readers of intellectual, artistic and avant‐garde works, recalled recently that she had tried to import “Ulysses” but that it had always been seized by Customs. “There were many pirated editions being sold here,” Miss Steloff said in her home above the book store at 41 West 47th Street. “Many of them looked exactly like Sylvia Beach's edition, and I told her about that. We managed to get some copies—I had to have them, after all, this was a great book—and I would supply them for customers I knew and trusted.”",
+          "James Joyce Soc convenes in NYC to observe 90th anniv of Joyce's birth, 50th anniv of 1st pub of his book Ulysses and 25th anniv of founding of soc",
+          "The Bodley Head, publisher of “Ulysses” since 1936, when the censorship was lifted in Britain, has sold 350,000 hard‐cover copies, including the original edition and a new edition in 1960. Paperback rights were sold to Penguin in 1967 for $180,000, the highest price Penguin had ever paid for such an arrangement."
+        ]
+      },
+      {
+        "title": "Collecting Ulysses by Joyce, James - First edition identification guide",
+        "url": "https://www.biblio.com/ulysses-by-joyce-james/work/10973",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It was a struggle for the author ... first printing sold out, and &quot;within a… Read more about this item ... First Edition; Lettered Issue, limited to <strong>26 copies</strong>....",
+        "profile": {
+          "name": "Biblio",
+          "url": "https://www.biblio.com/ulysses-by-joyce-james/work/10973",
+          "long_name": "biblio.com",
+          "img": "https://imgs.search.brave.com/7TcdHgx4auido8X2IRkR07eXNkocLFKW8ZbXOxzFGgk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ3OTkxOGVi/ZTFlYmRmMWY4NmJk/N2U3YWE1M2ZiMmEz/NjkxYTQ2MDFmODgx/ODg1NTg0Yjc0NjNl/OWIzNTE5MS93d3cu/YmlibGlvLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "book",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "biblio.com",
+          "hostname": "www.biblio.com",
+          "favicon": "https://imgs.search.brave.com/7TcdHgx4auido8X2IRkR07eXNkocLFKW8ZbXOxzFGgk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ3OTkxOGVi/ZTFlYmRmMWY4NmJk/N2U3YWE1M2ZiMmEz/NjkxYTQ2MDFmODgx/ODg1NTg0Yjc0NjNl/OWIzNTE5MS93d3cu/YmlibGlvLmNvbS8",
+          "path": "› ulysses-by-joyce-james  › work  › 10973"
+        },
+        "extra_snippets": [
+          "It was a struggle for the author to find a publisher, a comic irony considering that Ulysses is \"[u]niversally hailed as the most influential work of modern times\" (Grolier Joyce 69). Ulysses was an immediate success. The first printing sold out, and \"within a… Read more about this item ... First Edition; Lettered Issue, limited to 26 copies.",
+          "Unable to find a publisher in the U.S. or U.K., Ulysses was first published in book form by Shakespeare and Company in Paris in 1922. This first edition appeared in blue and white printed wrappers in an edition of only 1,000 copies which are among the most highly sought after modern first editions, commanding prices in the range of $40,000 - $75,000. A signed first edition could easily fetch over $100,000. There have been at least 18 editions and variations in different impressions of each edition, though some are certainly more notable than others.",
+          "This first edition appeared in blue and white printed wrappers in an edition of only 1,000 copies which are among the most highly sought after modern first editions, commanding prices in the range of $40,000 - $75,000. A signed first edition could easily fetch over $100,000. There have been at least 18 editions and variations in different impressions of each edition, though some are certainly more notable than others. Harriet Weaver of the Egoist Press published the first “English edition” of Ulysses later in 1922.",
+          "Description: London: John Lane, The Bodley Head, 1936. First Edition, English Issuance, First Authorized English edition, one of 900 copies only, printed on special Japon vellum papers, probably the most beautiful First Edition of ULYSSES ever printed. Tall, thick, royal 8vo, publisher’s original full green polished linen buckram with the gilt lettering and pictorial decoration of…"
+        ]
+      },
+      {
+        "title": "Rare first-edition copies of 'Ulysses' may lure investors – The Irish Times",
+        "url": "https://www.irishtimes.com/business/rare-first-edition-copies-of-ulysses-may-lure-investors-1.1147388",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These <strong>1,000 books</strong> are the true blue &quot;first editions&quot; of Ulysses. The first two copies delivered from the printers were numbers 901 and 902, which arrived in Paris by train. Joyce presented the first to his wife Nora and the second went to Sylvia Beach who put it on display in the window of ...",
+        "page_age": "2004-07-02T00:00:00",
+        "profile": {
+          "name": "The Irish Times",
+          "url": "https://www.irishtimes.com/business/rare-first-edition-copies-of-ulysses-may-lure-investors-1.1147388",
+          "long_name": "irishtimes.com",
+          "img": "https://imgs.search.brave.com/kbHgWchcwLV9t6NOiYgNLQuQmfWYXFO3XnLI2p-k47k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmRjYTljNjc1/NDhiMzkxZmNkNTE2/OGZjYjc5M2Q4ZWZm/ZGRjZWUyNGYwZmZi/OWMyOTQwYTAzMzBm/NGY1NmIwZC93d3cu/aXJpc2h0aW1lcy5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "irishtimes.com",
+          "hostname": "www.irishtimes.com",
+          "favicon": "https://imgs.search.brave.com/kbHgWchcwLV9t6NOiYgNLQuQmfWYXFO3XnLI2p-k47k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmRjYTljNjc1/NDhiMzkxZmNkNTE2/OGZjYjc5M2Q4ZWZm/ZGRjZWUyNGYwZmZi/OWMyOTQwYTAzMzBm/NGY1NmIwZC93d3cu/aXJpc2h0aW1lcy5j/b20v",
+          "path": "› business  › rare-first-edition-copies-of-ulysses-may-lure-investors-1.1147388"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SbNv9eUoGtuHt-eqKd5H1FJ7YVAOOb1aocCKTvXt8gY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aXJpc2h0aW1lcy5j/b20vcmVzaXplci9a/UEFqb0lNdTRkS2N2/YjVUSlZTT3V5QTd2/ekU9LzEwMjR4MC9j/bG91ZGZyb250LWV1/LWNlbnRyYWwtMS5p/bWFnZXMuYXJjcHVi/bGlzaGluZy5jb20v/aXJpc2h0aW1lcy9V/MlBBT09PRUlWSFRK/RVA2SVgzTjVRSExZ/TS5wbmc",
+          "original": "https://www.irishtimes.com/resizer/ZPAjoIMu4dKcvb5TJVSOuyA7vzE=/1024x0/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/U2PAOOOEIVHTJEP6IX3N5QHLYM.png",
+          "logo": false
+        },
+        "age": "July 2, 2004",
+        "article": {
+          "author": [],
+          "date": "Jul 02, 2004",
+          "publisher": {
+            "type": "organization",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BUD8AoPqACJa0HsK9rur31f0KVqYdOag5xnGwy9pJUE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aXJpc2h0aW1lcy5j/b20vYXNzZXRzL2lt/YWdlcy9sb2dvL21h/c3RoZWFkLTYwMGJ5/NjAucG5n",
+              "original": "https://www.irishtimes.com/assets/images/logo/masthead-600by60.png"
+            }
+          },
+          "isAccessibleForFree": false
+        },
+        "organization": {
+          "type": "organization",
+          "name": "The Irish Times",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Most have been \"restored\" to varying degrees, which explains the price range of 5,000-50,000. Before buying one, it would probably be a good idea to undertake further research. Other than the original 1,000 there are other copies of Ulysses worth considering. Shakespeare and Company re-printed the book many times and prices fall dramatically with each of the later printings.",
+          "Know why some copies sell for a few hundred euros and some for hundreds of thousands before embarking on that epic purchase, …",
+          "These 1,000 books are the true blue \"first editions\" of Ulysses. The first two copies delivered from the printers were numbers 901 and 902, which arrived in Paris by train. Joyce presented the first to his wife Nora and the second went to Sylvia Beach who put it on display in the window of her left-bank bookshop, Shakespeare and Company, which published the book. Nora's copy appears to have been lost.",
+          "Nora's copy appears to have been lost. Number 902 is today in a university library in Buffalo, New York. What about the other 998? Laura Barnes-Weldon, national co-ordinator of the ReJoyce festival believes that about 800 copies have survived. Of these half are in \"public\" collections. It is reasonable to assume that these copies will never be sold."
+        ]
+      },
+      {
+        "title": "Rare Book of the Month: Ulysses, by James Joyce (1922) - ZSR Library",
+        "url": "https://zsr.wfu.edu/2011/rare-book-of-the-month-ulysses-by-james-joyce-1922/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Text page from the first edition <strong>of</strong> <strong>Ulysses</strong> The publishing history of James Joyce&#x27;s <strong>Ulysses</strong> is itself a complicated odyssey. Joyce began writing <strong>Ulysses</strong>, a modernist novel detailing one day (16 June 1904) in the life of Dubliner Leopold Bloom, in 1914. By 1918 he was sending typescript chapters ...",
+        "page_age": "2011-06-10T20:22:16",
+        "profile": {
+          "name": "ZSR Library",
+          "url": "https://zsr.wfu.edu/2011/rare-book-of-the-month-ulysses-by-james-joyce-1922/",
+          "long_name": "zsr.wfu.edu",
+          "img": "https://imgs.search.brave.com/4IvAZqL7A6K_spdrQiyp3zUDscNL-o7hnGM4Cp-Z17o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjA3MGM0MjE3/MTUzN2EyNWYwMTFl/YTU1NzU3NDVlNzUw/OWEzY2MwM2EzYjQx/ZjdmZTQ2NWUyOWY1/MmVmNDQxNC96c3Iu/d2Z1LmVkdS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "zsr.wfu.edu",
+          "hostname": "zsr.wfu.edu",
+          "favicon": "https://imgs.search.brave.com/4IvAZqL7A6K_spdrQiyp3zUDscNL-o7hnGM4Cp-Z17o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjA3MGM0MjE3/MTUzN2EyNWYwMTFl/YTU1NzU3NDVlNzUw/OWEzY2MwM2EzYjQx/ZjdmZTQ2NWUyOWY1/MmVmNDQxNC96c3Iu/d2Z1LmVkdS8",
+          "path": "› 2011  › rare-book-of-the-month-ulysses-by-james-joyce-1922"
+        },
+        "age": "June 10, 2011",
+        "extra_snippets": [
+          "Text page from the first edition of Ulysses The publishing history of James Joyce's Ulysses is itself a complicated odyssey. Joyce began writing Ulysses, a modernist novel detailing one day (16 June 1904) in the life of Dubliner Leopold Bloom, in 1914. By 1918 he was sending typescript chapters to Ezra Pound to be published [...]",
+          "Beach had advertised a publication date of autumn 1921 for the first edition of Ulysses, but the many complications in the printing process delayed the project for more than a year. The first copies finally appeared on 2 February 1922, Joyce’s fortieth birthday. Copies of the book sold briskly at the Shakespeare and Company shop in Paris.",
+          "But he seemed delighted, and so was I. . . . Undeterred by lack of capital, experience, and all the other requisites of a publisher, I went right ahead with Ulysses. [57] ... Sylvia Beach found a French printer, Maurice Darantiere, who was willing to print the book essentially on commission. They planned a first edition of 1000 copies (including 100 signed by the author). ... The process of printing the 700+ page book was complicated for a variety of reasons. Just finding typists who could create useable typescripts from Joyce’s manuscripts was a challenge.",
+          "Many more editions of Ulysses were published throughout the 20th century, and literary scholars still argue over what constitutes the definitive text of Joyce’s novel. Z. Smith Reynolds Library’s copy of the first edition of Ulysses was purchased by the library in 1967."
+        ]
+      },
+      {
+        "title": "Ulysses James Joyce First Edition Rare Book",
+        "url": "https://www.raptisrarebooks.com/product/ulysses-james-joyce-first-edition-1922-3/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "First edition, one of 750 numbered copies on handmade paper from a total edition of <strong>1000 copies</strong>, this is number 992. Thick quarto, original blue and white wrappers. A near fine example, internally fresh and largely unopened, completely unrestored. Housed in a custom half morocco clamshell box.",
+        "page_age": "2015-06-17T20:13:45",
+        "profile": {
+          "name": "Raptis Rare Books",
+          "url": "https://www.raptisrarebooks.com/product/ulysses-james-joyce-first-edition-1922-3/",
+          "long_name": "raptisrarebooks.com",
+          "img": "https://imgs.search.brave.com/2GG9mvpcLHyHyFpomrxLPLonz_-EZEoqB1IQ6b0KIvA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRlZGE4N2E3/NzA0M2IxZmYyNzY4/MmM3MDJkMTY1YzQ4/ZjhjMjZmNGQyMzY0/ZThhM2Q5YTQ0Mzcw/N2ZhMTUzYy93d3cu/cmFwdGlzcmFyZWJv/b2tzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "raptisrarebooks.com",
+          "hostname": "www.raptisrarebooks.com",
+          "favicon": "https://imgs.search.brave.com/2GG9mvpcLHyHyFpomrxLPLonz_-EZEoqB1IQ6b0KIvA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRlZGE4N2E3/NzA0M2IxZmYyNzY4/MmM3MDJkMTY1YzQ4/ZjhjMjZmNGQyMzY0/ZThhM2Q5YTQ0Mzcw/N2ZhMTUzYy93d3cu/cmFwdGlzcmFyZWJv/b2tzLmNvbS8",
+          "path": "  › home  › shop  › ulysses."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/98sPCAI_0N11ddSUjbdhmVEj_5h_0EA1-qxj2UeeeFg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnJh/cHRpc3JhcmVib29r/cy5jb20vaW1hZ2Vz/LzQ3Njc4L3VseXNz/ZXMtamFtZXMtam95/Y2UtZmlyc3QtZWRp/dGlvbi0xOTIyLTMu/anBnP2ZpdD0xMDAw/JTJDODAwJnNzbD0x",
+          "original": "https://i0.wp.com/www.raptisrarebooks.com/images/47678/ulysses-james-joyce-first-edition-1922-3.jpg?fit=1000%2C800&ssl=1",
+          "logo": false
+        },
+        "age": "June 17, 2015",
+        "extra_snippets": [
+          "First edition, one of 750 numbered copies on handmade paper from a total edition of 1000 copies, this is number 992. Thick quarto, original blue and white wrappers. A near fine example, internally fresh and largely unopened, completely unrestored. Housed in a custom half morocco clamshell box. This example contains the original prospectus with the tipped-on reproduction of the 1918 photo of Joyce by C. Ruf. The front panel of the prospectus has been amended, as often, to indicate the book “is now ready,” and the original buyer must have jumped at the opportunity, as the order panel of the prospectus has been neatly cut away.",
+          "Also laid into the slipcase is some correspondence relating to the sale of this copy in 1972 by Duschnes in New York City. An exceptional example with noted provenance. Ulysses was published in Paris by Shakespeare & Company, 1922. It was a struggle for the author to find a publisher, a comic irony considering that Ulysses is \"[u]niversally hailed as the most influential work of modern times\" (Grolier Joyce 69). Ulysses was an immediate success. The first printing sold out, and \"within a year Joyce had become a well-known literary figure.",
+          "The front panel of the prospectus has been amended, as often, to indicate the book “is now ready,” and the original buyer must have jumped at the opportunity, as the order panel of the prospectus has been neatly cut away. Sisley Huddleston’s 5 March 1922 review from The Observer is also laid in (though both items are in prophylactic sleeves that have prevented any offsetting). Also laid into the slipcase is some correspondence relating to the sale of this copy in 1972 by Duschnes in New York City. An exceptional example with noted provenance. Ulysses was published in Paris by Shakespeare & Company, 1922.",
+          "Ulysses was an immediate success. The first printing sold out, and \"within a year Joyce had become a well-known literary figure. Ulysses was explosive in its impact on the literary world of 1922\" (de Grazia, 27). Even so, the book faced difficulties in global reception."
+        ]
+      },
+      {
+        "title": "Amazon.com: Ulysses: 9780140030006: Joyce, James: Books",
+        "url": "https://www.amazon.com/Ulysses-James-Joyce/dp/014003000X",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Unless you&#x27;re beyond <strong>Ulysses</strong> 101 and want to compare editions. This is one of three first-edition facsimiles that have been published. I can&#x27;t speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my <strong>copy</strong> will become a minor-league ...",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Ulysses-James-Joyce/dp/014003000X",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Ulysses-James-Joyce  › dp  › 014003000X"
+        },
+        "extra_snippets": [
+          "Unless you're beyond Ulysses 101 and want to compare editions. This is one of three first-edition facsimiles that have been published. I can't speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my copy will become a minor-league collector's item.",
+          "This is one of three first-edition facsimiles that have been published. I can't speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my copy will become a minor-league collector's item. Ulysses has become an obsession and and a world in and of itself for its partisans, of whom I am one.",
+          "i leave to other readers to review the literary merits, and point out that this is the copy of \"Ulysses\" to own if you are at all serious about delving the book with reader guides. the publication history of \"Ulysses\" is vexed, but the bottom line is that we are left with a variety of editions all strewn with errors. this Modern Library edition is by far the best: it incorporates the Bodley Head version, corrected by Joycean scholar Stuart Gilbert and corrected again thereafter, with yet further justified corrections added -- including at last restoring the \"bindu dot\" that should close the pe",
+          "Ulysses is an experience, so just dive in. Note: This is a review of the Revised Gabler Edition, which is that one you should read. ... i leave to other readers to review the literary merits, and point out that this is the copy of \"Ulysses\" to own if you are at all serious about delving the book with reader guides. the publication history of \"Ulysses\" is vexed, but the bottom line is that we are left with a variety of editions all strewn with errors. this Modern Library edition is by far the best: it incorporates the Bodley Head version, corrected by Joycean scholar Stuart Gilbert and correcte"
+        ]
+      },
+      {
+        "title": "Ulysses by James Joyce | Goodreads",
+        "url": "https://www.goodreads.com/book/show/338798.Ulysses",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Read 9,498 reviews from the world’s largest community for readers. <strong>Ulysses</strong> is a modernist novel by Irish writer James Joyce. It was first serialized in par…",
+        "profile": {
+          "name": "Goodreads",
+          "url": "https://www.goodreads.com/book/show/338798.Ulysses",
+          "long_name": "goodreads.com",
+          "img": "https://imgs.search.brave.com/3AhhL7k0w3fAz7QrBn5KRSCMOGzEO5eVo4jJhIfH74A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ0YzMxZDAz/NmNkYTYzMWE2Mjlm/M2IzNzk5OTZlZTIz/YjczZjRmZTQxYzU0/YjQ5YmYyNDM2NTlk/ZWFiZjFlMi93d3cu/Z29vZHJlYWRzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "book",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "goodreads.com",
+          "hostname": "www.goodreads.com",
+          "favicon": "https://imgs.search.brave.com/3AhhL7k0w3fAz7QrBn5KRSCMOGzEO5eVo4jJhIfH74A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ0YzMxZDAz/NmNkYTYzMWE2Mjlm/M2IzNzk5OTZlZTIz/YjczZjRmZTQxYzU0/YjQ5YmYyNDM2NTlk/ZWFiZjFlMi93d3cu/Z29vZHJlYWRzLmNv/bS8",
+          "path": "› book  › show  › 338798.Ulysses"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5RSe3Qmv-itPdKAkYV01xAcqD7_VXGDhKKCQ--mNNu0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9T/L2NvbXByZXNzZWQu/cGhvdG8uZ29vZHJl/YWRzLmNvbS9ib29r/cy8xNDI4ODkxMzQ1/aS8zMzg3OTguanBn",
+          "original": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428891345i/338798.jpg",
+          "logo": false
+        },
+        "book": {
+          "title": "Ulysses",
+          "author": [
+            {
+              "type": "person",
+              "name": "James Joyce",
+              "url": "https://www.goodreads.com/author/show/5144.James_Joyce"
+            },
+            {
+              "type": "person",
+              "name": "Morris L. Ernst",
+              "url": "https://www.goodreads.com/author/show/2779610.Morris_L_Ernst"
+            },
+            {
+              "type": "person",
+              "name": "John M. Woolsey",
+              "url": "https://www.goodreads.com/author/show/5939039.John_M_Woolsey"
+            }
+          ],
+          "pages": 925,
+          "rating": {
+            "ratingValue": 3.8,
+            "bestRating": 5.0,
+            "reviewCount": 9498,
+            "is_tripadvisor": false
+          }
+        },
+        "extra_snippets": [
+          "Ulysses is a modernist novel by Irish writer James Joyc…",
+          "Ulysses is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal The Little Review from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922, Joyce's 40th birthday. It is considered one of the most important works of modernist literature and has been called \"a demonstration and summation of the entire movement.\"",
+          "It is considered one of the most important works of modernist literature and has been called \"a demonstration and summation of the entire movement.\" According to Declan Kiberd, \"Before Joyce, no writer of fiction had so foregrounded the process of thinking\". Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the course of an ordinary day, 16 June 1904.",
+          "Ultimately, I decided I need to step away from James Joyce and digest Ulysses for a few months. Joyce's Ulysses has been called the most important novel in all of modern literature, and, it is. Joyce burst the traditional form of the novel wide open. Yes, Ulysses is a radical departure from the traditional novels of the past."
+        ]
+      },
+      {
+        "title": "Ulysses | Summary, Analysis, Characters, & Facts | Britannica",
+        "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Ulysses</strong>, novel by Irish writer James Joyce, first published in book form in 1922. The stylistically dense and exhilarating novel is generally regarded as a masterpiece and is constructed as a parallel to Homer’s Odyssey. All the action takes place in and around Dublin on a single day (June ...",
+        "page_age": "2011-11-14T00:00:00",
+        "profile": {
+          "name": "Britannica",
+          "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce",
+          "long_name": "britannica.com",
+          "img": "https://imgs.search.brave.com/hcLf2uAEj_yDbSzYRgdkKMQIWeIcfmsuchdJkpCh2_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "britannica.com",
+          "hostname": "www.britannica.com",
+          "favicon": "https://imgs.search.brave.com/hcLf2uAEj_yDbSzYRgdkKMQIWeIcfmsuchdJkpCh2_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v",
+          "path": "  › literature  › novels & short stories"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VOTM2bmLAftmSXbgZS8AhKTkBi8y8bWPlmpY1ThfHGI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vOTYvMTM3Njk2/LTA1MC01MDhCMUUy/Ni9KYW1lcy1Kb3lj/ZS5qcGc",
+          "original": "https://cdn.britannica.com/96/137696-050-508B1E26/James-Joyce.jpg",
+          "logo": false
+        },
+        "age": "November 14, 2011",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "David Punter",
+              "url": "https://www.britannica.com/contributor/David-Punter/9837876"
+            }
+          ],
+          "date": "Nov 14, 2011",
+          "publisher": {
+            "type": "organization",
+            "name": "Encyclopedia Britannica",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/wkHuUAUz6J32exmOLRjL5LaMO1hLDNf1iwC8RcWQiJ0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jb3Jw/b3JhdGUuYnJpdGFu/bmljYS5jb20vd3At/Y29udGVudC90aGVt/ZXMvZWItY29ycG9y/YXRlL19pbWcvbG9n/by5wbmc",
+              "original": "https://corporate.britannica.com/wp-content/themes/eb-corporate/_img/logo.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Ulysses, novel by Irish writer James Joyce, first published in book form in 1922. The stylistically dense and exhilarating novel is generally regarded as a masterpiece and is constructed as a parallel to Homer’s Odyssey. All the action takes place in and around Dublin on a single day (June 16, 1904).",
+          "Ulysses, novel by Irish writer James Joyce, first published in book form in 1922. Stylistically dense and exhilarating, it is generally regarded as a masterpiece and has been the subject of numerous volumes of commentary and analysis. The novel is constructed as a modern parallel to Homer’s Odyssey.",
+          "Ulysses was excerpted in The Little Review in 1918–20, at which time further publication of the book was banned, as the work was excoriated by authorities for being prurient and obscene. It was first published in book form in 1922 by Sylvia Beach, the proprietor of the Paris bookstore Shakespeare and Company. There have since been other editions published, but scholars cannot agree on the authenticity of any one of them.",
+          "There have since been other editions published, but scholars cannot agree on the authenticity of any one of them. An edition published in 1984 that supposedly corrected some 5,000 standing errors generated controversy because of the inclusion by its editors of passages not in the original text and because it allegedly introduced hundreds of new errors. Most scholars regard Ulysses as a masterwork of Modernism, while others hail it as the pivotal point of Postmodernism."
+        ]
+      },
+      {
+        "title": "The 100 best novels: No 46 – Ulysses by James Joyce (1922) | James Joyce | The Guardian",
+        "url": "https://www.theguardian.com/books/2014/aug/04/100-best-novels-ulysses-james-joyce-robert-mccrum",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "By then, James Joyce had already seen Ulysses, a text of <strong>approximately 265,000 words</strong>, privately published in Paris by Sylvia Beach, the philanthropic proprietor of the bookshop Shakespeare &amp; Company, after a tortuous gestation in which his novel had been prosecuted for obscenity, and almost ...",
+        "page_age": "2014-08-04T04:44:00",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/books/2014/aug/04/100-best-novels-ulysses-james-joyce-robert-mccrum",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/9NJ5RrmLraV8oAt2-ItS_A5rM7MNWTBcXog1rbJwni0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/9NJ5RrmLraV8oAt2-ItS_A5rM7MNWTBcXog1rbJwni0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› books  › 2014  › aug  › 04  › 100-best-novels-ulysses-james-joyce-robert-mccrum"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/buww2bD9pVx2DEroWIIfI5Covzs1OpxznPex8bI6kX4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L3N0YXRpYy9zeXMt/aW1hZ2VzL0d1YXJk/aWFuL1BpeC9waWN0/dXJlcy8yMDE0Lzcv/MjkvMTQwNjY0MTYw/MzkwNi9qYW1lcy1q/b3ljZS0wMDcuanBn/P3dpZHRoPTEyMDAm/aGVpZ2h0PTYzMCZx/dWFsaXR5PTg1JmF1/dG89Zm9ybWF0JmZp/dD1jcm9wJm92ZXJs/YXktYWxpZ249Ym90/dG9tJTJDbGVmdCZv/dmVybGF5LXdpZHRo/PTEwMHAmb3Zlcmxh/eS1iYXNlNjQ9TDJs/dFp5OXpkR0YwYVdN/dmIzWmxjbXhoZVhN/dmRHOHRZV2RsTFRJ/d01UUXVjRzVuJmVu/YWJsZT11cHNjYWxl/JnM9MTgwNTRkOTZh/MWE4OWIzNzJmMWU1/NDVhZDhiYWY2ZGQ",
+          "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/29/1406641603906/james-joyce-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTQucG5n&enable=upscale&s=18054d96a1a89b372f1e545ad8baf6dd",
+          "logo": false
+        },
+        "age": "August 4, 2014",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Robert McCrum",
+              "url": "https://www.theguardian.com/profile/robertmccrum"
+            }
+          ],
+          "date": "Aug 04, 2014",
+          "publisher": {
+            "type": "organization",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/XCbWpGT4BFC62vMKXmBIIdVMxb0AdJbjfqeIZVoQhLw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWRzLmd1aW0uY28u/dWsvMjAxOC8wMS8z/MS9UaGVHdWFyZGlh/bl9BTVAucG5n",
+              "original": "https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png"
+            }
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "From a deep split in English and German textual theory, the status of the all-important \"copy-text\" (either the 1922 edition or Joyce's chaotic and imperfect manuscript) became the subject of a fierce scholarly debate between Gabler and his nemesis, John Kidd. The climax of this crisis occurred in June 1988 with Kidd's article in the New York Review of Books, entitled \"The Scandal of Ulysses\".",
+          "By then, James Joyce had already seen Ulysses, a text of approximately 265,000 words, privately published in Paris by Sylvia Beach, the philanthropic proprietor of the bookshop Shakespeare & Company, after a tortuous gestation in which his novel had been prosecuted for obscenity, and almost hounded into oblivion.",
+          "Today, novelists writing a hundred years after the composition of Ulysses still write in the shadow of this extraordinary achievement. Occasionally, it is said that English-language fiction since 1922 has been a series of footnotes to Joyce's masterpiece.",
+          "To scholars and some critics, the text of Ulysses was still \"corrupt\" from the tortuous process of the novel's gestation. This, it was argued, should be put right with a full-blown edition representing Joyce's intentions. But how to achieve that? The answer was not obvious, which may have been Joyce's unconscious wish from the first."
+        ]
+      },
+      {
+        "title": "Amazon.com: Ulysses (The Gabler Edition): 9780394743127: Joyce, James: Books",
+        "url": "https://www.amazon.com/Ulysses-Gabler-James-Joyce/dp/0394743121",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Amazon.com: <strong>Ulysses</strong> (The Gabler Edition): 9780394743127: Joyce, James: Books",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Ulysses-Gabler-James-Joyce/dp/0394743121",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Ulysses-Gabler-James-Joyce  › dp  › 0394743121"
+        },
+        "product": {
+          "type": "Product",
+          "name": "Ulysses (The Gabler Edition)",
+          "price": "14.89",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/u6lOs4-XIYEC1opE3SeUHzVAGSf8s6KzsCI421_RLQQ/rs:fit:360:283:1/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFzWnVkUkpGVUwu/X1NZNDQ1X1NYMzQy/Xy5qcGc",
+            "original": "https://m.media-amazon.com/images/I/41sZudRJFUL._SY445_SX342_.jpg"
+          },
+          "offers": [
+            {
+              "url": "https://www.amazon.com/Ulysses-Gabler-James-Joyce/dp/0394743121",
+              "priceCurrency": "USD",
+              "price": "14.89"
+            }
+          ]
+        },
+        "extra_snippets": [
+          "Unique in the history of literature, Ulysses is one of the most important and enjoyable works of the twentieth century. ... \"All the Little Raindrops: A Novel\" by Mia Sheridan for $10.39 The chilling story of the abduction of two teenagers, their escape, and the dark secrets that, years later, bring them back to the scene of the crime. | Learn more ... In StockShips from and sold by Amazon.com.",
+          "The Gabler edition of Ulysses, the greatest 20th-century novel written in English, contains corrections to more than 5,000 errors in earlier editions. Almost as soon as Ulysses first appeared, in Paris in 1922, James Joyce began to compile a list of errata, and publishers have continued the process ever since, often inadvertently adding to the list.",
+          "Almost as soon as Ulysses first appeared, in Paris in 1922, James Joyce began to compile a list of errata, and publishers have continued the process ever since, often inadvertently adding to the list. In 1974, an international team of scholars headed by Professor Hans Walter Gabler began to study manuscript evidence, typescripts, and proofs in order to produce as accurate and complete a new edition as possible.",
+          "Set entirely on one day, 16 June 1904, Ulysses follows Leopold Bloom and Stephen Daedalus as they go about their daily business in Dublin. From this starting point, James Joyce constructs a novel of extraordinary imaginative richness and depth. Unique in the history of literature, Ulysses is one of the most important and enjoyable works of the twentieth century."
+        ]
+      },
+      {
+        "title": "Ulysses: Joyce, James: 9780679722762: Amazon.com: Books",
+        "url": "https://www.amazon.com/Ulysses-James-Joyce/dp/0679722769",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Ulysses</strong> [Joyce, James] on Amazon.com. *FREE* shipping on qualifying offers. <strong>Ulysses</strong>",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Ulysses-James-Joyce/dp/0679722769",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Ulysses-James-Joyce  › dp  › 0679722769"
+        },
+        "product": {
+          "type": "Product",
+          "name": "Ulysses",
+          "price": "10.29",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/ZiDIYbmt9nUWLgm2xFo2sqVXqO_G-1rV8Tq0ozsnsMA/rs:fit:360:283:1/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF5VzFUcDVFT0wu/X1NZNDQ1X1NYMzQy/Xy5qcGc",
+            "original": "https://m.media-amazon.com/images/I/31yW1Tp5EOL._SY445_SX342_.jpg"
+          },
+          "offers": [
+            {
+              "url": "https://www.amazon.com/Ulysses-James-Joyce/dp/0679722769",
+              "priceCurrency": "USD",
+              "price": "10.29"
+            }
+          ]
+        },
+        "extra_snippets": [
+          "In StockShips from and sold by Amazon.com. ... To see our price, add these items to your cart. Choose items to buy together. ... Ulysses has been labeled dirty, blasphemous, and unreadable. In a famous 1933 court decision, Judge John M. Woolsey declared it an emetic book--although he found it sufficiently unobscene to allow its importation into the United States--and Virginia Woolf was moved to decry James Joyce's \"cloacal obsession.\"",
+          "Unique in the history of literature, Ulysses is one of the most important and enjoyable works of the twentieth century. This edition contains the original foreword by the author and the historic court ruling to remove the federal ban. It also contains page references to the first American edition of 1934. ... The Amazon Book Review Book recommendations, author interviews, editors' picks, and more. Read it now ... In StockShips from and sold by Amazon.com.",
+          "Set entirely on one day, 16 June 1904, Ulysses follows Leopold Bloom and Stephen Daedalus as they go about their daily business in Dublin. From this starting point, James Joyce constructs a novel of extraordinary imaginative richness and depth. Unique in the history of literature, Ulysses is one of the most important and enjoyable works of the twentieth century.",
+          "It is funny, sorrowful, and even (in a close-focus sort of way) suspenseful. And despite the exegetical industry that has sprung up in the last 75 years, Ulysses is also a compulsively readable book. Even the verbal vaudeville of the final chapters can be navigated with relative ease, as long as you're willing to be buffeted, tickled, challenged, and (occasionally) vexed by Joyce's sheer command of the English language."
+        ]
+      },
+      {
+        "title": "Ulysses Plot Summary – The Rosenbach",
+        "url": "https://rosenbach.org/ulysses-plot-summary/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "James Joyce’s <strong>Ulysses</strong>, published in 1922, remains one of the most challenging and rewarding works of English literature. Not only does it narrow its temporal focus to a single day, it also widens i…",
+        "page_age": "2017-02-23T19:19:26",
+        "profile": {
+          "name": "The Rosenbach",
+          "url": "https://rosenbach.org/ulysses-plot-summary/",
+          "long_name": "rosenbach.org",
+          "img": "https://imgs.search.brave.com/xq6qMKg22dhWgmkSWud64qzKEZtSTBuIwmsbVzeCRE0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2YwZGExNTBj/MjZhNjY4ZTc4NGQ2/YjkyMGUwOTc5YjBl/ZmM3MGViNjE0NWY0/ZjljMWZhZDE4OThh/Yjg5ZmEwMy9yb3Nl/bmJhY2gub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rosenbach.org",
+          "hostname": "rosenbach.org",
+          "favicon": "https://imgs.search.brave.com/xq6qMKg22dhWgmkSWud64qzKEZtSTBuIwmsbVzeCRE0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2YwZGExNTBj/MjZhNjY4ZTc4NGQ2/YjkyMGUwOTc5YjBl/ZmM3MGViNjE0NWY0/ZjljMWZhZDE4OThh/Yjg5ZmEwMy9yb3Nl/bmJhY2gub3JnLw",
+          "path": "› ulysses-plot-summary"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/86T1mU4CNmPddPIqd5mxqUp6KkUi7BKK_iJj-Fr_coE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9yb3Nl/bmJhY2gub3JnL3dw/LWNvbnRlbnQvdGhl/bWVzL3JtbF9sYXd5/ZXJpYXgvaW1nL2xv/Z28uanBn",
+          "original": "https://rosenbach.org/wp-content/themes/rml_lawyeriax/img/logo.jpg",
+          "logo": true
+        },
+        "age": "February 23, 2017",
+        "extra_snippets": [
+          "Stephen is punched by a British solder unimpressed by Stephen’s rhetorical skills, and Bloom protects the unconscious recipient of that punch so that the latter might avoid falling into the custody of the police. The episode (and with it Part II, the “Odyssey” proper) ends poignantly with Bloom’s vision of his own son Rudy (who had died eleven years ago at the age of eleven days) as he might have been in life, now eleven.",
+          "James Joyce’s Ulysses, published in 1922, remains one of the most challenging and rewarding works of English literature. Not only does it narrow its temporal focus to a single day, it also widens its scope to follow three major characters—Stephen Dedalus, Leopold Bloom, and Molly Bloom—and even the city of Dublin itself.",
+          "Stylistically, Ulysses is unique not only because it changes style with every episode, but because the narrative refuses to remain obedient to the story; it increasingly peels away from the plot and indulges in independent raillery of the reader over the heads of the characters.",
+          "Bloom pays Bella for the damage and follows Stephen into the street. Stephen is punched by a British solder unimpressed by Stephen’s rhetorical skills, and Bloom protects the unconscious recipient of that punch so that the latter might avoid falling into the custody of the police."
+        ]
+      },
+      {
+        "title": "Bloomsday! The Library’s One-of-a-Kind Copy of “Ulysses” | Timeless",
+        "url": "https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It&#x27;s Bloomsday, the annual celebration of James Joyce&#x27;s landmark modernist masterpiece, &quot;<strong>Ulysses</strong>.&quot; Published 101 years ago, Joyce&#x27;s book famously examines one day — June 16, 1904 — in the life of Leopold Bloom of Dublin, Ireland. The Library has some of the most extraordinary <strong>copies</strong> <strong>of</strong> ...",
+        "profile": {
+          "name": "LOC",
+          "url": "https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/",
+          "long_name": "Library of Congress",
+          "img": "https://imgs.search.brave.com/32Zs6Mq16wlFQyzGu_pZdGw1Ay4cwML8Kffnszd5wiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJmZTZmNGRk/MGRlMGExNDA2NGNj/MzQwYWJkMjhlYWIw/MGIwMjliYWVkYTAw/OWEyZDY0MTg1ODRi/OTlhMGZjNy9ibG9n/cy5sb2MuZ292Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "blogs.loc.gov",
+          "hostname": "blogs.loc.gov",
+          "favicon": "https://imgs.search.brave.com/32Zs6Mq16wlFQyzGu_pZdGw1Ay4cwML8Kffnszd5wiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJmZTZmNGRk/MGRlMGExNDA2NGNj/MzQwYWJkMjhlYWIw/MGIwMjliYWVkYTAw/OWEyZDY0MTg1ODRi/OTlhMGZjNy9ibG9n/cy5sb2MuZ292Lw",
+          "path": "› loc  › 2023  › 06  › bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RxnBv3s9jDw5IAgrAlvTbVlnJPcW6dJqzmIR6axlB9k/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9ibG9n/cy5sb2MuZ292L2xv/Yy9maWxlcy8yMDIz/LzA2L1NjcmVlbnNo/b3QtMjAyMy0wNi0x/NC1hdC01LjQ2LjMz/LVBNLnBuZw",
+          "original": "https://blogs.loc.gov/loc/files/2023/06/Screenshot-2023-06-14-at-5.46.33-PM.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "It's Bloomsday, the annual celebration of James Joyce's landmark modernist masterpiece, \"Ulysses.\" Published 101 years ago, Joyce's book famously examines one day — June 16, 1904 — in the life of Leopold Bloom of Dublin, Ireland. The Library has some of the most extraordinary copies of the book ever printed, inducing a custom-made copy with a cover made of calfskin; an explanation of the book's convoluted symbolism by Joyce himself; and a full-color anatomical chart of the human body, annotated to show how body parts correspond to specific chapters in the book.",
+          "Copies of that first print run became some of the most sought-after books of the age. (A first edition famously sold at auction in London in 2009 for the equivalent today of of $636,000; signed and personal copies have sold for much more.) The bespoke calfskin cover of the LIbrary’s edition of “Ulysses.” Photo: Shawn Miller.",
+          "Across the Atlantic, the Library has some of the most extraordinary copies of the book ever printed. But first, a quick recap: Paris, 1922: Sylvia Beach, proprietor of Shakespeare and Company, the famous bookshop, decides to publish “Ulysses.” This is risky because pre-publication excerpts had been declared obscene by U.S. courts.",
+          "Paris, 1922: Sylvia Beach, proprietor of Shakespeare and Company, the famous bookshop, decides to publish “Ulysses.” This is risky because pre-publication excerpts had been declared obscene by U.S. courts. Beach limited her first edition to 1,000 copies. All were numbered, and 100 were signed by Joyce. It was a brilliant decision. The novel went on to be regarded as one of the premier literary works of the 20th century and Joyce one of the era’s great authors. Copies of that first print run became some of the most sought-after books of the age. (A first edition famously sold at auction in London in 2009 for the equivalent today of of $636,000; signed and personal copies have sold for much more.)"
+        ]
+      },
+      {
+        "title": "Briton pays record price for Joyce epic Ulysses | Reuters",
+        "url": "https://www.reuters.com/article/idINIndia-40110820090605",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A rare <strong>copy</strong> <strong>of</strong> James Joyce&#x27;s epic novel <strong>Ulysses</strong> has <strong>been</strong> <strong>sold</strong> for 275,000 pounds ($442,900) the highest price ever paid for a 20th-century first edition.",
+        "page_age": "2009-06-05T09:57:53",
+        "profile": {
+          "name": "U.S.",
+          "url": "https://www.reuters.com/article/idINIndia-40110820090605",
+          "long_name": "reuters.com",
+          "img": "https://imgs.search.brave.com/Ae938I6f5q1DFa90iCd8oQJYp9J-9-3jd1UMrGzFV7Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reuters.com",
+          "hostname": "www.reuters.com",
+          "favicon": "https://imgs.search.brave.com/Ae938I6f5q1DFa90iCd8oQJYp9J-9-3jd1UMrGzFV7Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+          "path": "› article  › idINIndia-40110820090605"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jprxe11MOcTwsPhZEoxehGersyNxRSnf8Bd__lhDxIQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMucmV1dGVycy5j/b20vcmVzb3VyY2Vz/L3IvP209MDImZD0y/MDA5MDYwNSZ0PTIm/aT0xMDM5NDA1OSZy/PWltZy0yMDA5LTA2/LTA1VDE1MjgwMFpf/MDFfTk9PVFJfUlRS/TUROQ18wX0luZGlh/LTQwMTEwOC0xJnc9/ODAw",
+          "original": "https://static.reuters.com/resources/r/?m=02&d=20090605&t=2&i=10394059&r=img-2009-06-05T152800Z_01_NOOTR_RTRMDNC_0_India-401108-1&w=800",
+          "logo": false
+        },
+        "age": "June 5, 2009",
+        "organization": {
+          "type": "organization",
+          "name": "Reuters",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "A statue of Ireland's James Joyce, author of Ulysses, is seen at Zurich's Fluntern cemetery, where he is buried, in this June 16, 2004 file photo. A rare copy of Joyce's epic novel Ulysses has been sold for 275,000 pounds ($442,900) the highest price ever paid for a 20th-century first edition. REUTERS/Sebastian Derungs/Files",
+          "A rare copy of Joyce's epic novel Ulysses has been sold for 275,000 pounds ($442,900) the highest price ever paid for a 20th-century first edition. REUTERS/Sebastian Derungs/Files · LONDON (Reuters Life!) - A rare copy of James Joyce’s epic novel Ulysses has been sold for 275,000 pounds ($442,900) the highest price ever paid for a 20th-century first edition.",
+          "A British private buyer purchased the book, signed by the author, at one of the world’s largest antiquarian book fairs in London this week-- an annual event at which prints, photographs, manuscripts and books are sold for up to 500,000 pounds. “This copy of Ulysses is exceptional because it is in such pristine condition,” vendor Pom Harrington, who made the deal, told Reuters. “The book was smuggled into New York during the ban in the 1920s and has been in the same family since,” Harrington added.",
+          "- A rare copy of James Joyce’s epic novel Ulysses has been sold for 275,000 pounds ($442,900) the highest price ever paid for a 20th-century first edition. A British private buyer purchased the book, signed by the author, at one of the world’s largest antiquarian book fairs in London this week-- an annual event at which prints, photographs, manuscripts and books are sold for up to 500,000 pounds. “This copy of Ulysses is exceptional because it is in such pristine condition,” vendor Pom Harrington, who made the deal, told Reuters."
+        ]
+      },
+      {
+        "title": "Ulysses: A Facsimile of the First Edition Published in Paris in 1922: Joyce, James: 9780914061700: Amazon.com: Books",
+        "url": "https://www.amazon.com/Ulysses-Facsimile-First-Published-Paris/dp/0914061704",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This is one of three first-edition facsimiles that have been published. I can&#x27;t speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my <strong>copy</strong> will become a minor-league collector&#x27;s item. <strong>Ulysses</strong> has become an obsession and and a world in and of itself for its partisans, of whom I am one. The <strong>Ulysses</strong> obsession is much like the Higher Criticism surrounding the Sherlock Holmes canon. <strong>Many</strong> ...",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Ulysses-Facsimile-First-Published-Paris/dp/0914061704",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Ulysses-Facsimile-First-Published-Paris  › dp  › 0914061704"
+        },
+        "extra_snippets": [
+          "This is one of three first-edition facsimiles that have been published. I can't speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my copy will become a minor-league collector's item. Ulysses has become an obsession and and a world in and of itself for its partisans, of whom I am one. The Ulysses obsession is much like the Higher Criticism surrounding the Sherlock Holmes canon. Many people find it bizarre, and I can hardly disagree.",
+          "Ulysses: A Facsimile of the First Edition Published in Paris in 1922 [Joyce, James] on Amazon.com. *FREE* shipping on qualifying offers. Ulysses: A Facsimile of the First Edition Published in Paris in 1922",
+          "Unless you're beyond Ulysses 101 and want to compare editions. This is one of three first-edition facsimiles that have been published. I can't speak to the others, but I can recommend this one. Kudos to Orchises, and I hope they keep it in print. Or not, so my copy will become a minor-league collector's item.",
+          "Or not, so my copy will become a minor-league collector's item. Ulysses has become an obsession and and a world in and of itself for its partisans, of whom I am one. The Ulysses obsession is much like the Higher Criticism surrounding the Sherlock Holmes canon. Many people find it bizarre, and I can hardly disagree. If, like me, you've got the bug, I don't have to explain it to you."
+        ]
+      },
+      {
+        "title": "Ulysses (100 Copy Collector's Edition): Joyce, James: 9781772268225: Amazon.com: Books",
+        "url": "https://www.amazon.com/Ulysses-Copy-Collectors-James-Joyce/dp/1772268224",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Ulysses</strong> (100 <strong>Copy</strong> Collector&#x27;s Edition) [Joyce, James] on Amazon.com. *FREE* shipping on qualifying offers. <strong>Ulysses</strong> (100 <strong>Copy</strong> Collector&#x27;s Edition)",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Ulysses-Copy-Collectors-James-Joyce/dp/1772268224",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Ulysses-Copy-Collectors-James-Joyce  › dp  › 1772268224"
+        },
+        "extra_snippets": [
+          "Joyce fans worldwide now celebrate 16 June as Bloomsday. In 1998, the American publishing firm Modern Library ranked Ulysses first on its list of the 100 best English-language novels of the 20th century. This cloth-bound book includes a Victorian inspired dust-jacket, and is limited to 100 copies.",
+          "Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the course of an ordinary day, 16 June 1904. Ulysses is the Latinised name of Odysseus, the hero of Homer’s epic poem Odyssey, and the novel establishes a series of parallels between the poem and the novel, with structural correspondences between the characters and experiences of Leopold Bloom and Odysseus, Molly Bloom and Penelope, and Stephen Dedalus and Telemachus, in addition to events and themes of the early twentieth century context of modernism, Dublin, and Ireland’s relationship to Britain.",
+          "Since publication, Ulysses has attracted controversy and scrutiny, ranging from early obscenity trials to protracted textual “Joyce Wars”. Ulysses’ stream-of-consciousness technique, careful structuring, and experimental prose – full of puns, parodies, and allusions – as well as its rich characterisation and broad humour, made the book a highly regarded novel in the modernist pantheon. Joyce fans worldwide now celebrate 16 June as Bloomsday. In 1998, the American publishing firm Modern Library ranked Ulysses first on its list of the 100 best English-language novels of the 20th century.",
+          "When you open in your hands the refined fruit of so many mastership united in the same object. C'est de la jouissance!"
+        ]
+      },
+      {
+        "title": "Which edition of Ulysses is best? – Infinite Zombies",
+        "url": "https://infinitezombies.com/2010/06/25/which-edition-of-ulysses-is-best/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Hello. Let me introduce myself: my name is Judd, and I&#x27;ll be joining the group in some sort of &quot;coordinator&quot; capacity for the upcoming read <strong>of</strong> <strong>Ulysses</strong>. Daryl gave me a very nice introduction in his introductory post last week, but I feel I should make one thing very clear from the outset: I am…",
+        "page_age": "2010-06-30T20:04:19",
+        "profile": {
+          "name": "Infinite Zombies",
+          "url": "https://infinitezombies.com/2010/06/25/which-edition-of-ulysses-is-best/",
+          "long_name": "infinitezombies.com",
+          "img": "https://imgs.search.brave.com/_V0cbLYZj8xf4FJ9waNDH3NZenK2oOVsGy7xTnjPbcI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNhNzY2ZTlj/NjM2N2RkOTVjZWEx/NTY2MDE0NWRlYzM4/ZGM2MWJlOTA0ODgw/OTk5Njc3ZjFmZGUw/NjY1YjE1MS9pbmZp/bml0ZXpvbWJpZXMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "infinitezombies.com",
+          "hostname": "infinitezombies.com",
+          "favicon": "https://imgs.search.brave.com/_V0cbLYZj8xf4FJ9waNDH3NZenK2oOVsGy7xTnjPbcI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNhNzY2ZTlj/NjM2N2RkOTVjZWEx/NTY2MDE0NWRlYzM4/ZGM2MWJlOTA0ODgw/OTk5Njc3ZjFmZGUw/NjY1YjE1MS9pbmZp/bml0ZXpvbWJpZXMu/Y29tLw",
+          "path": "› 2010  › 06  › 25  › which-edition-of-ulysses-is-best"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/twtbgsVHfW8Si1RXRSqJVw4694qQNJssJjdmjEVKiDM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zMC53/cC5jb20vaS9ibGFu/ay5qcGc",
+          "original": "https://s0.wp.com/i/blank.jpg",
+          "logo": false
+        },
+        "age": "June 30, 2010",
+        "extra_snippets": [
+          "Hello. Let me introduce myself: my name is Judd, and I’ll be joining the group in some sort of “coordinator” capacity for the upcoming read of Ulysses. Daryl gave me a very nice i…",
+          "The next edition is the 1934 text, published after the ban on Ulysses in America was lifted, and reset in 1961. This was the standard edition for several decades, and any Joyce criticism written in the mid-century heyday of Joyce-studies will refer to it. There are two versions of this available: a Vintage paperback, and a Modern Library hardcover. I have the Modern Library edition for a “reading” (as opposed to “studying”) copy, and that’s the version I’d recommend for someone reading the book for pleasure: it’s got a great binding, it’s easy to hold, it lies flat, it has nice quality paper.",
+          "I decided to read Ulysses after finishing Portrait of the Artist as a Young Man a couple of weeks ago and just stumbled upon this website. I wasn’t sure which version to get and I eventually settled on the Oxford World’s Classics version of the 1922 text because it features extensive notes in the back. So far I’ve been happy with it and the notes even point out places where there were mistakes made in the printing of the text.",
+          "Maybe a few copies saved as evidence of the crime for scholars. ... First time readers, reading as a group, are well served by an edition with line numbers. I have been advocating such readers: 1: follow the free, annotated & line-numbered Columbia University edition ( http://www.columbia.edu/~fms5/ulys.htm [based on Gabler]) as they 2: follow along with the free, 40+ hour radio dramatization ( https://archive.org/details/Ulysses-Audiobook ). Readers will want to search the text."
+        ]
+      },
+      {
+        "title": "Ulysses by James Joyce | Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/4300",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Free kindle book and epub digitized and proofread by volunteers.",
+        "profile": {
+          "name": "Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/4300",
+          "long_name": "gutenberg.org",
+          "img": "https://imgs.search.brave.com/Op-8LDjiS_Y9MauyZQh70BqxdGARQpN50tpCqCgXHF4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDRmOTMzODQ5/NTliZjI0N2FiYjNi/ZmUyZWJlNWRlODMw/NmU0NGRkMDI2Mzky/ODM3ZDJjYWUwYzVi/MmE2Yjc1ZS93d3cu/Z3V0ZW5iZXJnLm9y/Zy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gutenberg.org",
+          "hostname": "www.gutenberg.org",
+          "favicon": "https://imgs.search.brave.com/Op-8LDjiS_Y9MauyZQh70BqxdGARQpN50tpCqCgXHF4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDRmOTMzODQ5/NTliZjI0N2FiYjNi/ZmUyZWJlNWRlODMw/NmU0NGRkMDI2Mzky/ODM3ZDJjYWUwYzVi/MmE2Yjc1ZS93d3cu/Z3V0ZW5iZXJnLm9y/Zy8",
+          "path": "› ebooks  › 4300"
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}
