@@ -7,6 +7,7 @@ client = Groq(
 )
 
 
+
 def groq_completion(user_request, page_text):
     system_prompt = """Your role is to help the reader of a book with various tasks that they want to achieve.\n
     These include:
