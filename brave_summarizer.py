@@ -2,7 +2,7 @@ import requests
 import os
 
 def summarizer(query: str):
-    url = f"https://api.search.brave.com/res/v1/web/search?q={query.replace(" ", "+")}&summary=1"
+    url = f"https://api.search.brave.com/res/v1/web/search?q={query.replace(' ', '+')}&summary=1"
 
     payload = {}
     headers = {
