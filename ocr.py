@@ -6,6 +6,7 @@ load_dotenv()
 api_key = os.getenv('OPENAI_API')
 client = OpenAI(api_key=api_key)
 
+url = "https://github.com/EllAchE/llama-out-loud/blob/ocr/image/book.jpeg?raw=true"
 
 response = client.chat.completions.create(
   model="gpt-4-turbo",
@@ -13,11 +14,11 @@ response = client.chat.completions.create(
     {
       "role": "user",
       "content": [
-        {"type": "text", "text": "What’s in this image?"},
+        {"type": "text", "text": "Transcribe what the book says"},
         {
           "type": "image_url",
           "image_url": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg",
+            "url": url,
           },
         },
       ],
