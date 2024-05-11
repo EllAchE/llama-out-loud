@@ -1,8 +1,8 @@
 import requests
 import os
 
-def brave_req():
-    url = "https://api.search.brave.com/res/v1/web/search?q=brave+search"
+def brave_req(query: str):
+    url = f"https://api.search.brave.com/res/v1/web/search?q={query.replace(' ', '+')}"
 
     payload = {}
     headers = {
