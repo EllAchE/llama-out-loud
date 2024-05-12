@@ -21,8 +21,11 @@ def brave_req(query: str):
     print(response.text)
 
 # take the brave response and concat all of the descriptiosn in the web results
-def groq_response_concat():
-    pass
+def results_concat(brave_search_response):
+    results = brave_search_response['web']['results']
+    concatted = ""
+    for result in results:
+        concatted += result['description'] + "\n"
 
 # hits the summarizer endpoint of the brave api
 def summarizer(query: str):
