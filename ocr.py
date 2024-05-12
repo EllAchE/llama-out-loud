@@ -11,12 +11,10 @@ def ocr(base64_image):
         {
         "role": "user",
         "content": [
-            {"type": "text", "text": "Transcribe what the book says"},
+            {"type": "text", "text": "Transcribe the text on here. Describe diagram if there are any. Be concise. If there are any blue highlighting, only return that text inside triple backslash quote with no preamble"},
             {
             "type": "image_url",
-            "image_url": {
-                "url": {"url": f"data:image/jpeg;base64,{base64_image}"},
-            },
+            "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"},
             },
         ],
         }

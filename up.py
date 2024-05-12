@@ -5,6 +5,7 @@ from flask import Flask, request
 import requests
 import os
 import sys
+from dotenv import load_dotenv
 from werkzeug.utils import secure_filename
 from datetime import datetime
 import base64
@@ -25,9 +26,9 @@ sys.path.append("../")
 app = Flask(__name__)
 
 # CHANGE THIS TO YOUR OWN DIRECTORY
-# UPLOAD_FOLDER = '/Users/mlc/Code/hackathon/tester'
+UPLOAD_FOLDER = '/Users/mlc/Code/hackathon/tester'
 
-# app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # TODO: We need to have a global state & route(s) for the voice input
 
@@ -91,14 +92,21 @@ def handle_image():
         timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
         _, file_extension = os.path.splitext(file.filename)
         filename = f"{timestamp}{file_extension}"
-        file.save(filename)
+        save_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        file.save(save_path)
 
-        with open(filename, "rb") as file_to_encode:
-            encoded_string = base64.b64encode(
-                file_to_encode.read()).decode("utf-8")
-
+        with open(save_path, "rb") as file_to_encode:
+            encoded_string = base64.b64encode(file_to_encode.read()).decode("utf-8")
+    
         # print(encoded_string)
-        text_out = ocr(encoded_string)
+        try:
+            text_out = ocr(encoded_string)
+            # logging.info(f"OCR output: {text_out}")
+            print(text_out)
+        except Exception as e:
+            # logging.error(f"OCR processing failed: {e}")
+            return str(e), 500
+        
         print(text_out)
 
         global_image_text["text"] = text_out
