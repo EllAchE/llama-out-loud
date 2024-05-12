@@ -7,9 +7,8 @@ client = Groq(
 )
 
 
-
 def groq_completion(prompt):
-    chat_completion = client.chat.completions.create(
+    return client.chat.completions.create(
         messages=[
             {
                 "role": "user",
@@ -18,8 +17,3 @@ def groq_completion(prompt):
         ],
         model="llama3-8b-8192",
     )
-
-    print(chat_completion.choices[0].message.content)
-
-    return chat_completion
-
