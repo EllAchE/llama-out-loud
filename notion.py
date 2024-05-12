@@ -6,8 +6,6 @@ nc = Client(auth=os.getenv("NOTION_API_KEY"))
 
 root_page = 'af999b3e02e0402e9698ddc4bcf81729'
 
-
-
 def create_notion_page(title, content, heading = "Summary"):
     # Create a new page in the specified database
     page_data = {
