@@ -53,5 +53,3 @@ def main():
         return "TRAINING_DATA", res
     else:
         raise ValueError("Invalid groq response")
-        return None
-
