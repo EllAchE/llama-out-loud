@@ -3,7 +3,8 @@ app = Flask(__name__)
 
 @app.route('/post', methods=['POST'])
 def receive_data():
-    data = request.data
+    data = request.get_json()
+    print(data)
     # Process the data here
     return 'Data received', 200
 

@@ -1,3 +1,4 @@
 groq
 requests
 flask
+notion-client
