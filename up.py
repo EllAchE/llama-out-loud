@@ -46,7 +46,12 @@ def handle_voice():
 
     # we assume that the imsage has already been processed & saved to a file (or in memory)
 
-    type, response = process_inputs(transcript, global_image_text["text"])
+    print("###########################################################")
+    print(transcript)
+    print("###########################################################")
+    print(global_image_text["text"])
+
+    type, response = process_inputs(global_image_text["text"], transcript)
 
     url = "http://localhost:3001/trigger"
 
