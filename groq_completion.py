@@ -13,7 +13,7 @@ def groq_completion(prompt):
         messages=[
             {
                 "role": "user",
-                "content": prompt,
+                "content": f'{prompt} Be more concise, answer in less than 4 sentences.',
             }
         ],
         # model="llama3-8b-8192",
