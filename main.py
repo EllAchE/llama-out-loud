@@ -1,3 +1,9 @@
+import json
+
+from brave import brave_req, summarizer, concat_brave_search_results
+from groq_completion import groq_completion
+from groq_prompts import answer_question_prompt, entry_prompt
+
 '''
 - take image
 - convert image to text
@@ -9,31 +15,8 @@ c. store & share
 - respond to user with text confirmation of the action
 '''
 
-def grok_decision_tree(groq_res: str):
-    if ("BRAVE_SEARCH" in groq_res):
-        p = {
-            
-        }
-        return "BRAVE_SEARCH"
-    elif ("STORE_PASSAGE" in groq_res):
-        return "STORE_PASSAGE"
-    else:
-        raise ValueError("Invalid groq response")
-        return None
-
-                                                         
-def main():
-    ulys_txt = ''' Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:
- —Introibo ad altare Dei.
- Halted, he peered down the dark winding stairs and called out coarsely:
- —Come up, Kinch! Come up, you fearful jesuit!
- Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak.
- Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly.
- —Back to barracks! he said sternly.
- He added in a preacher’s tone:
- —For this, O dearly beloved, is the genuine Christine: body and soul and blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all. '''
-
- 
+def main(): 
+    question = "what books has shel silverstein written in the past year?"
 
     shel_silverstein = '''MAGIC
  Sandra's seen a leprechaun,
@@ -45,14 +28,30 @@ def main():
  But all the magic I have known
  I've had to make myself'''
 
-    init_prompt = entry_prompt("what books has shel silverstein written in the past year?", shel_silverstein)
-    initial_grok_response = groq_completion(init_prompt)
+    init_prompt = entry_prompt(question, shel_silverstein)
+    groq_res = groq_completion(init_prompt)
 
-    p = brave_req("what books has shel silverstein written in the past year?")
+    if ("BRAVE_SEARCH" in groq_res):
+        brave_res_obj = json.loads(groq_res)
+        brave_query = brave_res_obj["BRAVE_SEARCH"]
 
-    ss = concat_brave_search_results(p)
+        # get results from brave
+        brave_response = brave_req(brave_query)
+        concatted_brave = concat_brave_search_results(brave_response)
 
-    thep = answer_question_prompt(ss, "what books has shel silverstein written in the past year?")
+        # make the brave results useful before sending to voice endpoint
+        voice_response = answer_question_prompt(question, concatted_brave)
 
-    groq_res = groq_completion(thep)
-    print(groq_res)
+        return "BRAVE_SEARCH", voice_response
+    elif ("STORE_PASSAGE" in groq_res):
+        # here we should reference the most recent text data & use notion to store it
+        return "STORE_PASSAGE", None
+    elif ("TRAINING_DATA" in groq_res):
+        training_data_obje = json.loads(groq_res)
+        res = training_data_obje["TRAINING_DATA"]
+        # here we should immediately respond to the user based on what is in the training data
+        return "TRAINING_DATA", res
+    else:
+        raise ValueError("Invalid groq response")
+        return None
+
