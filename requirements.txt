@@ -2,3 +2,4 @@ groq
 requests
 flask
 notion-client
+openai
