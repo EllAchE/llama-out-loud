@@ -1,3 +1,6 @@
+import json
+from ocr import ocr
+from notion import create_notion_page
 from flask import Flask, request
 import requests
 import os
@@ -6,18 +9,19 @@ from dotenv import load_dotenv
 from werkzeug.utils import secure_filename
 from datetime import datetime
 import base64
-
-load_dotenv()
-
+import subprocess
 from brave import brave_req, summarizer, concat_brave_search_results
 from groq_completion import groq_completion
 from groq_prompts import answer_question_prompt, entry_prompt
+from elevenlabs import play
+from elevenlabs.client import ElevenLabs
 
-import json
+client = ElevenLabs(
+    api_key="9e02d2d1748f3be281989deff94dbb02"  # Defaults to ELEVEN_API_KEY
+)
+
 
 sys.path.append("../")
-from notion import create_notion_page
-from ocr import ocr
 
 app = Flask(__name__)
 
@@ -29,34 +33,50 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 # TODO: We need to have a global state & route(s) for the voice input
 
 global_image_text = {
-    "text": None # this should be overriden by the image endpoint (before the voice endpoint is called)
+    # this should be overriden by the image endpoint (before the voice endpoint is called)
+    "text": None
 }
+
 
 @app.route('/webhook', methods=['POST'])
 def handle_voice():
     data = request.get_json()
-    if 'transcript' not in data:
+    if 'key' not in data:
         return "No transcript found", 400
     transcript = data['key']
 
     # we assume that the imsage has already been processed & saved to a file (or in memory)
 
-    type, response = process_inputs(transcript, global_image_text["text"])
+    print("###########################################################")
+    print(transcript)
+    print("###########################################################")
+    print(global_image_text["text"])
+
+    type, response = process_inputs(global_image_text["text"], transcript)
 
     url = "http://localhost:3001/trigger"
 
     payload = json.dumps({
-      "message": f"<SPEAK>{response}",
+        "message": f"<SPEAK>{response}",
     })
     headers = {
-      'Content-Type': 'application/json'
+        'Content-Type': 'application/json'
     }
+    print("###########################################################")
+    print(response)
 
-    # hit vapi
+    audio = client.generate(
+        text=response,
+        voice="Rachel",
+        model="eleven_multilingual_v2"
+    )
+    play(audio)
+
+    # # hit vapi
     an_m = requests.request("POST", url, headers=headers, data=payload)
 
     # response should be sent back to vapi/voice api
-    return an_m, 200
+    return "", 200
 
 
 # route was previously /upload
@@ -65,7 +85,7 @@ def handle_image():
     if 'img' not in request.files:
         return "No file part", 400
     file = request.files['img']
-    
+
     if file:
         print('Book detected')
         filename = secure_filename(file.filename)
@@ -91,12 +111,12 @@ def handle_image():
 
         global_image_text["text"] = text_out
 
-
         return "File successfully uploaded", 200
-    
+
     return "No file uploaded", 500
 
-def process_inputs(ocr_text, question = "what books has shel silverstein written in the past year?"): 
+
+def process_inputs(ocr_text, question="what books has shel silverstein written in the past year?"):
     print("received all inputs, processing...")
     init_prompt = entry_prompt(question, ocr_text)
     groq_res = groq_completion(init_prompt)
@@ -111,10 +131,15 @@ def process_inputs(ocr_text, question = "what books has shel silverstein written
         # get results from brave
         brave_response = brave_req(brave_query)
         concatted_brave = concat_brave_search_results(brave_response)
+        print(brave_response)
+
+        print("=========================================================================================")
+
+        print(concatted_brave)
 
         # make the brave results useful before sending to voice endpoint
-        voice_response = answer_question_prompt(question, concatted_brave)
-
+        voice_prompt = answer_question_prompt(question, concatted_brave)
+        voice_response = groq_completion(voice_prompt)
         return "BRAVE_SEARCH", voice_response
     elif ("STORE_PASSAGE" in groq_res):
         print("Groq routed to STORE_PASSAGE")
@@ -133,13 +158,16 @@ def process_inputs(ocr_text, question = "what books has shel silverstein written
     else:
         raise ValueError("Invalid groq response")
 
+
 def parse_json_from_groq(groq_res):
     # split the ```json``` from the groq response
-    
-    groq_res = groq_res.split("```json")[1] if "```json" in groq_res else groq_res.split("```")[1]
+
+    groq_res = groq_res.split(
+        "```json")[1] if "```json" in groq_res else groq_res.split("```")[1]
     groq_res = groq_res.split("```")[0]
     groq_json = json.loads(groq_res)
     return groq_json
+
 
 test_input = '''
 It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.
@@ -149,8 +177,8 @@ There were a king with a large jaw and a queen with a plain face, on the throne 
 It was the year of Our Lord one thousand seven hundred and seventy-five. Spiritual revelations were conceded to England at that favoured period, as at this. Mrs. Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster. Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs. Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood. 
 '''
 
-process_inputs(test_input, "save from It was the best to age of foolishness")
-    
+# process_inputs(test_input, "save from It was the best to age of foolishness")
+
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=4040)
