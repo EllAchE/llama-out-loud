@@ -1,10 +1,9 @@
 from brave import brave_req, summarizer
 from groq_completion import groq_completion
 
-a = summarizer("Introibo ad altare Dei")
-print(a)
+# a = summarizer("how many copies of Ulysses have been sold?")
+# print(a)
 # print()
-# print('---------------------------------')
 # print('---------------------------------')
 # print()
 
