@@ -17,8 +17,10 @@ def entry_prompt(user_request, page_text):
 def answer_question_prompt(question, concatted_search_results):
     return f'''
     You will be given a question that was posed by a user and a newline separated set of search results descriptions that
-    should be used to anser the question. Your job is to read the descriptions and answer the question as best as you can.
+    should be used to answer the question. Your job is to read the descriptions and answer the question as best as you can.
 
     Here is the user question: {question}
     Here is the user question: {concatted_search_results}
+
+    Please provide the answer to the question.
     '''

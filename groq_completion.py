@@ -8,13 +8,12 @@ client = Groq(
 
 
 
-def groq_completion(user_request, page_text):
-    system_prompt = entry_prompt(user_request, page_text)
+def groq_completion(prompt):
     chat_completion = client.chat.completions.create(
         messages=[
             {
                 "role": "user",
-                "content": system_prompt,
+                "content": prompt,
             }
         ],
         model="llama3-8b-8192",
