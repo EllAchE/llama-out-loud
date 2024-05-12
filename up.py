@@ -79,13 +79,14 @@ def handle_voice():
 
 
 # route was previously /upload
-@app.route('/image', methods=['POST'])
+@app.route('/upload', methods=['POST'])
 def handle_image():
     if 'img' not in request.files:
         return "No file part", 400
     file = request.files['img']
 
     if file:
+        print('Book detected')
         filename = secure_filename(file.filename)
         timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
         _, file_extension = os.path.splitext(file.filename)
@@ -98,6 +99,7 @@ def handle_image():
 
         # print(encoded_string)
         text_out = ocr(encoded_string)
+        print(text_out)
 
         global_image_text["text"] = text_out
 

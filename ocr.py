@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 
 
-def ocr(url):
+def ocr(base64_image):
     api_key = os.getenv('OPENAI_API')
     client = OpenAI(api_key=api_key)
     response = client.chat.completions.create(
@@ -15,7 +15,7 @@ def ocr(url):
             {
             "type": "image_url",
             "image_url": {
-                "url": url,
+                "url": {"url": f"data:image/jpeg;base64,{base64_image}"},
             },
             },
         ],
