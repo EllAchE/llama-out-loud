@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 import Vapi from "@vapi-ai/web";
-import FileUploader from "./FileUploader"; // Import the FileUploader component
+import FileUploader from "./components/FileUploader"; // Import the FileUploader component
 
 function App() {
   const [message, setMessage] = useState("");
