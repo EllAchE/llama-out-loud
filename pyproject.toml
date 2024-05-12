@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "llama-out-loud"
+version = "0.1.0"
+description = ""
+authors = ["Justin Lee <justinlee38@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+vapi-python = "^0.1.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
