@@ -11,6 +11,7 @@ from groq_prompts import answer_question_prompt, entry_prompt
 import json
 
 sys.path.append("../")
+from notion import create_notion_page
 from ocr import ocr
 
 app = Flask(__name__)
@@ -71,10 +72,10 @@ def handle_image():
 def process_inputs(ocr_text, question = "what books has shel silverstein written in the past year?"): 
     init_prompt = entry_prompt(question, ocr_text)
     groq_res = groq_completion(init_prompt)
+    groq_json = json.loads(groq_res)
 
     if ("BRAVE_SEARCH" in groq_res):
-        brave_res_obj = json.loads(groq_res)
-        brave_query = brave_res_obj["BRAVE_SEARCH"]
+        brave_query = groq_json["BRAVE_SEARCH"]
 
         # get results from brave
         brave_response = brave_req(brave_query)
@@ -85,11 +86,12 @@ def process_inputs(ocr_text, question = "what books has shel silverstein written
 
         return "BRAVE_SEARCH", voice_response
     elif ("STORE_PASSAGE" in groq_res):
+        title = groq_json["STORE_PASSAGE"]
+        create_notion_page(title, ocr_text, )
         # here we should reference the most recent text data & use notion to store it
         return "STORE_PASSAGE", "I've stored the passage in Notion!"
     elif ("TRAINING_DATA" in groq_res):
-        training_data_obje = json.loads(groq_res)
-        res = training_data_obje["TRAINING_DATA"]
+        res = groq_json["TRAINING_DATA"]
         # here we should immediately respond to the user based on what is in the training data
         return "TRAINING_DATA", res
     else:

@@ -23,13 +23,13 @@ def create_notion_page(title, content, heading = "Summary"):
 			],
 	},
 	"children": [
-		{
-			"object": "block",
-			"type": "heading_2",
-			"heading_2": {
-				"rich_text": [{ "type": "text", "text": { "content": heading } }]
-			}
-		},
+		# {
+		# 	"object": "block",
+		# 	"type": "heading_2",
+		# 	"heading_2": {
+		# 		"rich_text": [{ "type": "text", "text": { "content": heading } }]
+		# 	}
+		# },
 		{
 			"object": "block",
 			"type": "paragraph",
