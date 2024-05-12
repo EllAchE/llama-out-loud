@@ -18,14 +18,16 @@ def brave_req(query: str):
 
     response = requests.request("GET", url, headers=headers, data=payload)
 
-    print(response.text)
+    return response.json()
 
 # take the brave response and concat all of the descriptiosn in the web results
-def results_concat(brave_search_response):
+def concat_brave_search_results(brave_search_response):
     results = brave_search_response['web']['results']
     concatted = ""
     for result in results:
         concatted += result['description'] + "\n"
+
+    return concatted
 
 # hits the summarizer endpoint of the brave api
 def summarizer(query: str):
