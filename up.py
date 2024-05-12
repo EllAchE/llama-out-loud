@@ -1,4 +1,5 @@
 from flask import Flask, request
+import requests
 import os
 import sys
 from werkzeug.utils import secure_filename
@@ -28,19 +29,31 @@ global_image_text = {
     "text": None # this should be overriden by the image endpoint (before the voice endpoint is called)
 }
 
-@app.route('/voice', methods=['POST'])
+@app.route('/webhook', methods=['POST'])
 def handle_voice():
     data = request.get_json()
     if 'transcript' not in data:
         return "No transcript found", 400
-    transcript = data['transcript']
+    transcript = data['key']
 
     # we assume that the imsage has already been processed & saved to a file (or in memory)
 
     type, response = process_inputs(transcript, global_image_text["text"])
 
+    url = "http://localhost:3001/trigger"
+
+    payload = json.dumps({
+      "message": f"<SPEAK>{response}",
+    })
+    headers = {
+      'Content-Type': 'application/json'
+    }
+
+    # hit vapi
+    an_m = requests.request("POST", url, headers=headers, data=payload)
+
     # response should be sent back to vapi/voice api
-    return response, 200
+    return an_m, 200
 
 
 # route was previously /upload
