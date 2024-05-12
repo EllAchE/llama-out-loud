@@ -1,3 +1,4 @@
+import json
 '''
 - take image
 - convert image to text
@@ -11,30 +12,22 @@ c. store & share
 
 def grok_decision_tree(groq_res: str):
     if ("BRAVE_SEARCH" in groq_res):
-        p = {
-            
-        }
-        return "BRAVE_SEARCH"
+        brave_res_obj = json.loads(groq_res)
+        brave_query = brave_res_obj["BRAVE_SEARCH"]
+        return "BRAVE_SEARCH", brave_query
     elif ("STORE_PASSAGE" in groq_res):
-        return "STORE_PASSAGE"
+        store_passage = json.loads(groq_res)
+        return "STORE_PASSAGE", None
+    elif ("TRAINING_DATA" in groq_res):
+        training_data_obje = json.loads(groq_res)
+        res = training_data_obje["TRAINING_DATA"]
+        return "TRAINING_DATA", res
     else:
         raise ValueError("Invalid groq response")
         return None
 
                                                          
 def main():
-    ulys_txt = ''' Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:
- —Introibo ad altare Dei.
- Halted, he peered down the dark winding stairs and called out coarsely:
- —Come up, Kinch! Come up, you fearful jesuit!
- Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak.
- Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly.
- —Back to barracks! he said sternly.
- He added in a preacher’s tone:
- —For this, O dearly beloved, is the genuine Christine: body and soul and blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all. '''
-
- 
-
     shel_silverstein = '''MAGIC
  Sandra's seen a leprechaun,
  Eddie touched a troll,
@@ -46,7 +39,22 @@ def main():
  I've had to make myself'''
 
     init_prompt = entry_prompt("what books has shel silverstein written in the past year?", shel_silverstein)
-    initial_grok_response = groq_completion(init_prompt)
+    groq_res = groq_completion(init_prompt)
+
+    if ("BRAVE_SEARCH" in groq_res):
+        brave_res_obj = json.loads(groq_res)
+        brave_query = brave_res_obj["BRAVE_SEARCH"]
+        return "BRAVE_SEARCH", brave_query
+    elif ("STORE_PASSAGE" in groq_res):
+        store_passage = json.loads(groq_res)
+        return "STORE_PASSAGE", None
+    elif ("TRAINING_DATA" in groq_res):
+        training_data_obje = json.loads(groq_res)
+        res = training_data_obje["TRAINING_DATA"]
+        return "TRAINING_DATA", res
+    else:
+        raise ValueError("Invalid groq response")
+        return None
 
     p = brave_req("what books has shel silverstein written in the past year?")
 

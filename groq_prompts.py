@@ -5,7 +5,8 @@ def entry_prompt(user_request, page_text):
     2. Storing a section of the passage that they want to remember.
 
     You will be provided with the text of the page they are viewing as well as their request.
-    If they ask you to search, you should return json containing the key BRAVE_SEARCH and the value that is the appropriate search query.
+    If they ask you for something you know the answer to based on your training data, you should json containing the key TRAINING_DATA and your answer as the value.
+    If they ask you for recent information that is outside your training data, you should return json containing the key BRAVE_SEARCH and an appropriate search query as the value.
     If they ask to store the passage, you should find out which text they want and return only the text STORE_PASSAGE.
 
     Here is the user request:{user_request}
