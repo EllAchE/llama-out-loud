@@ -3,30 +3,37 @@ import os
 import sys
 from werkzeug.utils import secure_filename
 from datetime import datetime
+import base64
 
 sys.path.append("../")
 from ocr import ocr
 
 app = Flask(__name__)
+
+# CHANGE THIS TO YOUR OWN DIRECTORY
 UPLOAD_FOLDER = '/Users/mlc/Code/hackathon/tester'
+
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-counter = 0
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'img' not in request.files:
         return "No file part", 400
-    
     file = request.files['img']
     
     if file:
+        filename = secure_filename(file.filename)
         timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
         _, file_extension = os.path.splitext(file.filename)
         filename = f"{timestamp}{file_extension}"
-        # filename = secure_filename(file.filename)
-        file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+        save_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        file.save(save_path)
 
-        ocr(url = "https://github.com/EllAchE/llama-out-loud/blob/ocr/image/zoom_book.png?raw=true")
+        with open(save_path, "rb") as file_to_encode:
+            encoded_string = base64.b64encode(file_to_encode.read()).decode("utf-8")
+    
+        # print(encoded_string)
+        text_out = ocr(encoded_string)
 
         return "File successfully uploaded", 200
         
