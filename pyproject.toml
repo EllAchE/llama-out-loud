@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 vapi-python = "^0.1.9"
+flask = "^3.0.3"
 
 
 [build-system]
