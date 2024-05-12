@@ -1,0 +1,691 @@
+{
+  "query": {
+    "original": "Introibo ad altare Dei",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "summary_key": "Introibo ad altare Dei:us:en"
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      { "type": "web", "index": 0, "all": false },
+      { "type": "web", "index": 1, "all": false },
+      { "type": "videos", "all": true },
+      { "type": "web", "index": 2, "all": false },
+      { "type": "web", "index": 3, "all": false },
+      { "type": "web", "index": 4, "all": false },
+      { "type": "web", "index": 5, "all": false },
+      { "type": "web", "index": 6, "all": false },
+      { "type": "web", "index": 7, "all": false },
+      { "type": "web", "index": 8, "all": false },
+      { "type": "web", "index": 9, "all": false },
+      { "type": "web", "index": 10, "all": false },
+      { "type": "web", "index": 11, "all": false },
+      { "type": "web", "index": 12, "all": false },
+      { "type": "web", "index": 13, "all": false },
+      { "type": "web", "index": 14, "all": false }
+    ],
+    "top": [{ "type": "chatllm", "index": 0, "all": false }],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=-t-DA_fjeXQ",
+        "title": "Mass Responses: Introibo ad altare Dei - YouTube",
+        "description": "Have you ever wanted an altar server to help you pronounce your responses for serving a Latin Mass? This altar server goes over each part about 3 times.The f...",
+        "age": "June 27, 2020",
+        "page_age": "2020-06-27T05:44:36",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/a-ZZVP1jp3eyoyoqgtqNh6KHpwM3Y6V-yQn0qvgY748/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8t/dC1EQV9mamVYUS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BR1VBNEFDMEFX/S0Fnd0lBQkFCR0dV/Z1NTaENNQTg9JmFt/cDtycz1BT240Q0xE/R0I1d0NoVjNrYmlX/Ym4wbFZsQ01ZVEw5/eUhB"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=wB6ks5TqWik",
+        "title": "COMMUNION • Sexagesima Sunday (“Introibo at altare Dei”) ...",
+        "description": "Allow your congregation to view ancient liturgical manuscripts: http://www.ccwatershed.org/Campion/- - -6124",
+        "age": "February 7, 2017",
+        "page_age": "2017-02-07T20:29:35",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hZdmJ3NK3a_R7ihC24gpPwb2SrjwhUCxXFDX0pgLrwQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS93/QjZrczVUcVdpay9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=xRzmUWnlqMo",
+        "title": "Ad Introibo Ad Altare Dei - YouTube",
+        "description": "3rd part of the sermon series on the \"Mass in Slow Motion\" For more please visit www.princeofpeacetaylors.net/ & remember to say a Hail Mary for the priest",
+        "age": "February 14, 2014",
+        "page_age": "2014-02-14T13:04:09",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lumdnwafm_pyzIlkZptFga7sIdclPkpTAscN6SgDvyo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS94/UnptVVdubHFNby9o/cWRlZmF1bHQuanBn"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=G0ROY9xfq-o",
+        "title": "Sexagesima Communion: Introíbo ad altáre Dei (Solfeggio) - YouTube",
+        "description": "This is an instructional video for choirs who are singing through the propers and ordinary of the liturgical year. It was recorded in a classroom. It uses ...",
+        "age": "February 10, 2022",
+        "page_age": "2022-02-10T05:11:40",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VvrbqRfUp3fY3IRvSB4vWWTbfBpeVOwKisVHrCVKLt0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9H/MFJPWTl4ZnEtby9o/cWRlZmF1bHQuanBn/P3NxcD0tb2F5bXdF/bUNPQURFT2dDOHF1/S3FRTWE4QUVCLUFI/LUNZQUMwQVdLQWd3/SUFCQUJHRjRnWGlo/ZU1BOD0mYW1wO3Jz/PUFPbjRDTERBdGVr/YmRZclF3VjRBN1Bx/VmJkb2NidlhEaVE"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Introibo ad altare Dei",
+        "url": "https://www.joyceproject.com/notes/010006introibo.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The words are taken from Psalm 43 (42 in the Vulgate), which <strong>expresses a desire to find refuge in God</strong>. In the days of the Latin Mass (pre-1964) it was chanted by the celebrant as he prepared to ascend the steps of the altar. The first two of the following three video clips show priests and ...",
+        "profile": {
+          "name": "Joyceproject",
+          "url": "https://www.joyceproject.com/notes/010006introibo.htm",
+          "long_name": "joyceproject.com",
+          "img": "https://imgs.search.brave.com/diLusGaRMPgB9FPhsFaVOs13DDmQW3DATygjF4V_C_o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM0NTg5NWFi/NDk2MmZiNzZmZmM4/ZWFiMjljMTQ1MGZi/Y2IyZTI5NzE0YWQ3/NzRhOTFmYTE5ZmFm/MjAzOTg5ZS93d3cu/am95Y2Vwcm9qZWN0/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "joyceproject.com",
+          "hostname": "www.joyceproject.com",
+          "favicon": "https://imgs.search.brave.com/diLusGaRMPgB9FPhsFaVOs13DDmQW3DATygjF4V_C_o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM0NTg5NWFi/NDk2MmZiNzZmZmM4/ZWFiMjljMTQ1MGZi/Y2IyZTI5NzE0YWQ3/NzRhOTFmYTE5ZmFm/MjAzOTg5ZS93d3cu/am95Y2Vwcm9qZWN0/LmNvbS8",
+          "path": "› notes  › 010006introibo.htm"
+        },
+        "extra_snippets": [
+          "The first two of the following three video clips show priests and their servers approaching the altar in an Irish and a Polish church. The third video presents a skilled Italian chanter singing the Introibo.  · Gifford observes that the server assisting the celebrant of the Mass responds to his Introibo by quoting from the next line of the Psalm: Ad Deum qui laetificat juventutem meam, “To God who gladdens my youth.” When Father Malachi O'Flynn celebrates an even more diabolic black mass in Circe by singing \"Introibo ad altare diaboli,\" his server perverts the responsory line too: \"To the devil which hath made glad my young days.\"",
+          "Gifford observes that the server assisting the celebrant of the Mass responds to his Introibo by quoting from the next line of the Psalm: Ad Deum qui laetificat juventutem meam, “To God who gladdens my youth.” When Father Malachi O'Flynn celebrates an even more diabolic black mass in Circe by singing \"Introibo ad altare diaboli,\" his server perverts the responsory line too: \"To the devil which hath made glad my young days.\" Stephen, who thinks of himself later in Telemachus as a server (and thus a servant) to Mulligan, does not speak the line responsorially to Mulligan’s Introibo, but he",
+          "The words are taken from Psalm 43 (42 in the Vulgate), which expresses a desire to find refuge in God. In the days of the Latin Mass (pre-1964) it was chanted by the celebrant as he prepared to ascend the steps of the altar. The first two of the following three video clips show priests and their servers approaching the altar in an Irish and a Polish church. The third video presents a skilled Italian chanter singing the Introibo.",
+          "\"Introibo ad altare Dei\": Mulligan’s first words initiate a mocking parody of the Catholic Mass, though in retrospect the stage has been set by his “stately” appearance carrying a bowl on which a mirror and razor lie “crossed.” In his mock ritual, the shaving bowl represents the chalice (or ciborium, or pyx) that holds the wine which will become changed into the blood of Christ."
+        ]
+      },
+      {
+        "title": "r/latin on Reddit: Introibo ad altare Dei...",
+        "url": "https://www.reddit.com/r/latin/comments/hafbna/introibo_ad_altare_dei/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Tridentine Mass famously opens with the prayers at the foot of the altar, beginning &quot;...Introibo ad altare Dei, ad Deum qui laetificat iuventutem meam&quot; traditionally translated as &quot; <strong>I will go in to the altar of God: to God who giveth joy to my youth</strong>.&quot;",
+        "page_age": "2020-06-16T23:24:08",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/latin/comments/hafbna/introibo_ad_altare_dei/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "   r/latin   introibo ad altare dei..."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0Uws9Xair0pH-I24v67ryQNS-DH6a6I5j6ziUvKsgfg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9pY29uLnBu/Zw",
+          "original": "https://www.redditstatic.com/icon.png",
+          "logo": false
+        },
+        "age": "June 16, 2020",
+        "qa": {
+          "question": "<p>\n    The Tridentine Mass famously opens with the prayers at the foot of the altar, beginning &quot;...Introibo ad altare Dei, ad Deum qui laetificat iuventutem meam&quot; traditionally translated as &quot; I will go in to the altar of God: to God who giveth joy to my youth.&quot;\n  </p><p>\n    My question is about the word altare here.  Isn&#39;t the Latin &quot;ara&quot; more precisely an altar?  Lewis and Short doesn&#39;t even present a noun version of Altar/Altare.  There is the verb Altare which is to raise up or elevate.  There also seems to be an Altaria, which is defined as a High Altar.\n  </p><p>\n    What&#39;s the etymology of these variations, and why is the choice of altare used here?  Does it have a more nuanced translation than the standard &quot;Altar?&quot;\n  </p>",
+          "answer": {
+            "text": "<p>\n    It is in Lewis and Short under altaria, definition II, where it says \"Sing.\" (Singular). It's a post-classical singular form of altaria. (I made a screenshot but see no way to insert it here.)\n  </p>\n",
+            "upvoteCount": 7
+          }
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Ellasandro",
+              "url": "https://www.reddit.com/user/Ellasandro/"
+            }
+          ],
+          "date": "Jun 16, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Reddit",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/FEEQm-98gvzsFGMgmQVvPyyyUAugx87dofu7KU6qlG0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9zaHJlZGRp/dC9hc3NldHMvZmF2/aWNvbi82NHg2NC5w/bmc",
+              "original": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "The Tridentine Mass famously opens with the prayers at the foot of the altar, beginning \"...Introibo ad altare Dei, ad Deum qui laetificat iuventutem meam\" traditionally translated as \" I will go in to the altar of God: to God who giveth joy to my youth.\"",
+          "The \"ara\" is the \"are\" in Altare, as altars of chief deities were often in elevated places like hills or mountaind for sacrifices: the Temple Mount in Jerusalem; the Capitoline Hill in Rome; the Parthenon in Athens; and various Acropoleis in the Ancient World.",
+          "There is the verb Altare which is to raise up or elevate. There also seems to be an Altaria, which is defined as a High Altar. What's the etymology of these variations, and why is the choice of altare used here? Does it have a more nuanced translation than the standard \"Altar?\"",
+          "It is in Lewis and Short under altaria, definition II, where it says \"Sing.\" (Singular). It's a post-classical singular form of altaria. (I made a screenshot but see no way to insert it here.)"
+        ]
+      },
+      {
+        "title": "Introibo Ad Altare Dei",
+        "url": "http://introiboadaltaredei2.blogspot.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The World as Seen from a Traditionalist Catholic Perspective",
+        "profile": {
+          "name": "Blogger",
+          "url": "http://introiboadaltaredei2.blogspot.com/",
+          "long_name": "introiboadaltaredei2.blogspot.com",
+          "img": "https://imgs.search.brave.com/AtLXqrBjD6_s78onylhOkRSWS4GLm8gJPDLhLsn4yso/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdmNDgwMWFh/MmQyMTlkNGNkOWRm/NTUwYjE0NjQ3Njcy/MDEyM2E1NDIzMWZk/NjE0NDhlMTE5ODk0/Y2U0NGJlOS9pbnRy/b2lib2FkYWx0YXJl/ZGVpMi5ibG9nc3Bv/dC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "http",
+          "netloc": "introiboadaltaredei2.blogspot.com",
+          "hostname": "introiboadaltaredei2.blogspot.com",
+          "favicon": "https://imgs.search.brave.com/AtLXqrBjD6_s78onylhOkRSWS4GLm8gJPDLhLsn4yso/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdmNDgwMWFh/MmQyMTlkNGNkOWRm/NTUwYjE0NjQ3Njcy/MDEyM2E1NDIzMWZk/NjE0NDhlMTE5ODk0/Y2U0NGJlOS9pbnRy/b2lib2FkYWx0YXJl/ZGVpMi5ibG9nc3Bv/dC5jb20v",
+          "path": ""
+        },
+        "extra_snippets": [
+          "I give full attribution for the information to all those sources and take no credit except for condensing the information into a readable, terse post---Introibo ... Mindfulness is usually marketed, explicitly or implicitly, as the key to peace, happiness, and even \"Catholic\" spiritual advancement.",
+          "For example, in the books of the Machabees, the Temple was stripped of its ornaments, women “thrust” themselves into the sanctuary, a second altar was erected over the original altar, traditional Jewish practices were outlawed and modern Greek religious practices were mandated and so much more!\" (The author's own words).  · I join Novus Ordo Watch (NOW) in endorsing the book · Divine Poetry by Dominic Caggeso. Please be advised that I make this endorsement based on its merits.",
+          "N.B. I have cultivated my information on mindfulness from many sources besides those explicitly mentioned. I give full attribution for the information to all those sources and take no credit except for condensing the information into a readable, terse post---Introibo",
+          "This section is a theory I hold. No one need believe it at all. I submit to the Judgement of Holy Mother Church if/when there is once more a true pope---Introibo"
+        ]
+      },
+      {
+        "title": "Introibo ad altare - ChoralWiki",
+        "url": "https://www.cpdl.org/wiki/index.php/Introibo_ad_altare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Source of text: Psalm 42:4 (Vulgate). Communion for Sexagesima or OT 5 A&amp;C · <strong>Introibo</strong> <strong>ad</strong> <strong>altare</strong> <strong>Dei</strong>: <strong>ad</strong> Deum qui laetificat juventutem meam",
+        "page_age": "2021-07-08T00:00:00",
+        "profile": {
+          "name": "Cpdl",
+          "url": "https://www.cpdl.org/wiki/index.php/Introibo_ad_altare",
+          "long_name": "cpdl.org",
+          "img": "https://imgs.search.brave.com/7Ug8Y_8Md8JIpSodryAvCrGL5Ao7YlC0a5Mic0N8mgs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDMzMWQzM2E5/NmQyNThjZmM5M2Q2/OThlODU4ZjZjMTAw/MzQyNmIzMjYwZTU5/YzU2OGM5ZTBiOTAy/MmNmYTgyOS93d3cu/Y3BkbC5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cpdl.org",
+          "hostname": "www.cpdl.org",
+          "favicon": "https://imgs.search.brave.com/7Ug8Y_8Md8JIpSodryAvCrGL5Ao7YlC0a5Mic0N8mgs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDMzMWQzM2E5/NmQyNThjZmM5M2Q2/OThlODU4ZjZjMTAw/MzQyNmIzMjYwZTU5/YzU2OGM5ZTBiOTAy/MmNmYTgyOS93d3cu/Y3BkbC5vcmcv",
+          "path": "› wiki  › index.php  › Introibo_ad_altare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TTe4liNxDIkbGJ-LfVfZHbMqgmoQyv6NCRjQ9P1zSyI/rs:fit:200:200:1/g:ce/aHR0cDovL3d3dy5j/cGRsLm9yZy93aWtp/L2ltYWdlcy8yLzIy/L1RvcGxvZ28xLnBu/Zw",
+          "original": "http://www.cpdl.org/wiki/images/2/22/Toplogo1.png",
+          "logo": true
+        },
+        "age": "July 8, 2021"
+      },
+      {
+        "title": "Introibo ad Altare Dei. | Catholicism Pure & Simple",
+        "url": "https://catholicismpure.wordpress.com/2010/09/13/introibo-ad-altare-dei/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“Introibo ad Altare Dei” can also be translated as, “<strong>I go unto the altar of God</strong>”, which I think sounds better. And the beautiful response from the altar server, “Ad Deum, qui lætificat juventum meam”. (“To God, who gives joy to my youth.”)",
+        "page_age": "2010-09-13T00:00:00",
+        "profile": {
+          "name": "Wordpress",
+          "url": "https://catholicismpure.wordpress.com/2010/09/13/introibo-ad-altare-dei/",
+          "long_name": "catholicismpure.wordpress.com",
+          "img": "https://imgs.search.brave.com/9E3eN6wnp3ERGRZa1mh8qhLaKDATvyolPPA0RapbFTw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQzZTAxMjNj/YzkxYWQ0NTI3MjMy/Mzg3ZjM4YThkMzhl/YmE4ZWUyYjljMjQy/YTM4MTc2YmRhODQ2/OTIzNTI4MS9jYXRo/b2xpY2lzbXB1cmUu/d29yZHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "catholicismpure.wordpress.com",
+          "hostname": "catholicismpure.wordpress.com",
+          "favicon": "https://imgs.search.brave.com/9E3eN6wnp3ERGRZa1mh8qhLaKDATvyolPPA0RapbFTw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQzZTAxMjNj/YzkxYWQ0NTI3MjMy/Mzg3ZjM4YThkMzhl/YmE4ZWUyYjljMjQy/YTM4MTc2YmRhODQ2/OTIzNTI4MS9jYXRo/b2xpY2lzbXB1cmUu/d29yZHByZXNzLmNv/bS8",
+          "path": "› 2010  › 09  › 13  › introibo-ad-altare-dei"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SCxRK0TQ0HgPPYACklWJXNH52pGPj9ASCLNLkYBjAqI/rs:fit:200:200:1/g:ce/aHR0cDovL2pvaG5z/ZWlsZXIuY29tL3Bh/Z2UyLjIuanBn",
+          "original": "http://johnseiler.com/page2.2.jpg",
+          "logo": false
+        },
+        "age": "September 13, 2010",
+        "extra_snippets": [
+          "“Introibo ad Altare Dei” can also be translated as, “I go unto the altar of God”, which I think sounds better. And the beautiful response from the altar server, “Ad Deum, qui lætificat juventum meam”. (“To God, who gives joy to my youth.”)",
+          "I will go in the altar of God. After making the Sign of the Cross, these are the opening words of Holy Mass in the Old Form – now called Tridentine. Recently there has been much controversy i…",
+          "And the beautiful response from the altar server, “Ad Deum, qui lætificat juventum meam”. (“To God, who gives joy to my youth.”)",
+          "I will go in the altar of God. After making the Sign of the Cross, these are the opening words of Holy Mass in the Old Form – now called Tridentine. Recently there has been much controversy in these days approaching the Holy Father’s historic visit regarding the parts of the Mass that are going to be in Latin. There are the usual ‘no-one will understand’, or ‘Latin is a dead language’ or ‘we don’t do that any more’. I could go on."
+        ]
+      },
+      {
+        "title": "Antiphona - Introibo ad altare Dei",
+        "url": "https://gregorien.info/chant/id/4475/9/en",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Gregorian Repertory &gt; Antiphona - <strong>Introibo</strong> <strong>ad</strong> <strong>altare</strong> <strong>Dei</strong> ... <strong>Introibo</strong> <strong>ad</strong> <strong>altare</strong> <strong>Dei</strong>, <strong>ad</strong> Deum qui laetificat iuventutem meam.",
+        "profile": {
+          "name": "Gregorien",
+          "url": "https://gregorien.info/chant/id/4475/9/en",
+          "long_name": "gregorien.info",
+          "img": "https://imgs.search.brave.com/mrXpoNNXnrjYszvDllpoLIIQVJqgkc3T7N3JBfvQDV4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmI2M2JiYmU1/NmViZDVmZDVkODY0/ODFhMTA0NmE3MTE0/NTJlNWVlNmFhYmZm/NTQ0ZTNkYmU3Y2M2/YTkwMjA4OC9ncmVn/b3JpZW4uaW5mby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gregorien.info",
+          "hostname": "gregorien.info",
+          "favicon": "https://imgs.search.brave.com/mrXpoNNXnrjYszvDllpoLIIQVJqgkc3T7N3JBfvQDV4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmI2M2JiYmU1/NmViZDVmZDVkODY0/ODFhMTA0NmE3MTE0/NTJlNWVlNmFhYmZm/NTQ0ZTNkYmU3Y2M2/YTkwMjA4OC9ncmVn/b3JpZW4uaW5mby8",
+          "path": "› chant  › id  › 4475  › 9  › en"
+        },
+        "extra_snippets": [
+          "Introibo ad altare Dei, ad Deum qui laetificat iuventutem meam. I will go to God’s altar: to the God who gives joy to my youth. Translation: Dr. Kate Helsen, London, Ontario, Canada ... Introibo ad altare Dei ad ..."
+        ]
+      },
+      {
+        "title": "\"Introibo ad altare Dei\" - nj.com",
+        "url": "https://www.nj.com/njv_ray_schroth/2007/07/introibo_ad_altare_dei.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "For the first time the congregation ... I was an altar boy. We all remember the opening lines to this day: priest, &quot;Introibo ad altare Dei.&quot; / &quot;<strong>I will go to the altar of God</strong>.&quot; Server, &quot;Ad Deum qui laitificat juventutem meum.&quot; / The God who gives joy to my youth.&quot;...",
+        "page_age": "2007-07-31T00:02:04",
+        "profile": {
+          "name": "nj",
+          "url": "https://www.nj.com/njv_ray_schroth/2007/07/introibo_ad_altare_dei.html",
+          "long_name": "nj.com",
+          "img": "https://imgs.search.brave.com/4kgBuFHeArF_sbDtnG8nRGQiK6nkTNWqMKSWrby5Q6M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGFiNzAxMWJi/NWExOTgwMzE5Nzc4/NmMyZjc5OTI5NDZj/YjI0YzcwZDY0Nzg2/MzQyMmJkNjIzM2Mw/ZWUxYWQxNC93d3cu/bmouY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nj.com",
+          "hostname": "www.nj.com",
+          "favicon": "https://imgs.search.brave.com/4kgBuFHeArF_sbDtnG8nRGQiK6nkTNWqMKSWrby5Q6M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGFiNzAxMWJi/NWExOTgwMzE5Nzc4/NmMyZjc5OTI5NDZj/YjI0YzcwZDY0Nzg2/MzQyMmJkNjIzM2Mw/ZWUxYWQxNC93d3cu/bmouY29tLw",
+          "path": "› njv_ray_schroth  › 2007  › 07  › introibo_ad_altare_dei.html"
+        },
+        "age": "July 31, 2007",
+        "extra_snippets": [
+          "For the first time the congregation could actually see their representative as he would lift the host and say, \"Hoc est enim corpus meum.\"Like most male Catholics of my generation, I was an altar boy. We all remember the opening lines to this day: priest, \"Introibo ad altare Dei.\" / \"I will go to the altar of God.\" Server, \"Ad Deum qui laitificat juventutem meum.\" / The God who gives joy to my youth.\"",
+          "In the long run, perhaps the person most hurt by the decision to reinstitute the Latin Mass will be Pope Benedict XVI. In 40 years as a Catholic priest I have said Mass in Latin only once. It was my first Mass in Blessed Sacrament Parish in Trenton, New Jersey, June 1967. The new Vatican II liturgy was scheduled to begin the following week, but we were forbidden to jump the gun. My mother bought a portable altar, so I wouldn't have to say my first Mass with my back to the people.",
+          "I remember Christmas in 1966 when, as a deacon the year before my priestly ordination, I was allowed to return to Trenton and intone the epistle at the Midnight Mass in my home parish. It was in Latin. My family politely said I had done a good job, but I felt foolish."
+        ]
+      },
+      {
+        "title": "Library : Introibo Ad Altare Dei | Catholic Culture",
+        "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=4444",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Introibo</strong> <strong>Ad</strong> <strong>Altare</strong> <strong>Dei</strong> The purpose of this series of articles is to outline certain fundamental aspects of the Church&#x27;s liturgical Magisterium. This third and last article addresses the resurgence of the Classical or Ancient Roman Rite — familiarly known as the Tridentine rite — and what ...",
+        "page_age": "2000-05-31T00:00:00",
+        "profile": {
+          "name": "Catholicculture",
+          "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=4444",
+          "long_name": "catholicculture.org",
+          "img": "https://imgs.search.brave.com/np_drZFYBDpBh4d6AkHWzag60wOsLCkZwrhX-VbET7E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjNlODA4ZWJi/M2FlNzM4OWJlYThh/OWQ2N2FmMGU1N2I3/OWNkYTdmY2JjMTAz/YjIyNjBmNWQ2ZWM2/ZDI5ZTU0MS93d3cu/Y2F0aG9saWNjdWx0/dXJlLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "catholicculture.org",
+          "hostname": "www.catholicculture.org",
+          "favicon": "https://imgs.search.brave.com/np_drZFYBDpBh4d6AkHWzag60wOsLCkZwrhX-VbET7E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjNlODA4ZWJi/M2FlNzM4OWJlYThh/OWQ2N2FmMGU1N2I3/OWNkYTdmY2JjMTAz/YjIyNjBmNWQ2ZWM2/ZDI5ZTU0MS93d3cu/Y2F0aG9saWNjdWx0/dXJlLm9yZy8",
+          "path": "› culture  › library  › view.cfm"
+        },
+        "age": "May 31, 2000",
+        "extra_snippets": [
+          "Introibo Ad Altare Dei The purpose of this series of articles is to outline certain fundamental aspects of the Church's liturgical Magisterium. This third and last article addresses the resurgence of the Classical or Ancient Roman Rite — familiarly known as the Tridentine rite — and what Holy Mother Church permits and recommends in its regard.",
+          "The Pope concludes his letter: \"As this year specially dedicated to the Blessed Virgin is now drawing to a close, I wish to exhort all to join in the unceasing prayer which the Vicar of Christ, through the intercession of the Mother of the Church, addresses to the Father in the very words of the Son: 'That they all may be one!'\" (§7). How Is Ecclesia Dei To Be Interpreted And Applied?",
+          "I write to you as a brother in the episcopal college charged by the Holy Father to carry out the provisions of his Apostolic Letter Ecclesia Dei of 2 July 1988. My objective in addressing myself to you now is precisely to encourage you in the exercise of your pastoral mission to those who legitimately request the celebration of the Holy Mass according to the 1962 typical edition of the Roman Missal.",
+          "My objective in addressing myself to you now is precisely to encourage you in the exercise of your pastoral mission to those who legitimately request the celebration of the Holy Mass according to the 1962 typical edition of the Roman Missal. Perhaps a review of developments, which led to the issuance of Ecclesia Dei would be helpful in this regard."
+        ]
+      },
+      {
+        "title": "The Absent God - Introibo ad altare Dei - Glory to God For All Things",
+        "url": "https://glory2godforallthings.com/2009/01/01/the-absent-god-introibo-ad-altare-dei/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Children in Church have a marvelous innocence – one that often sees past the barriers which we adults erect in our own ignorance. One of the children in my Church, young daughter of a Catechumen, has what I can only describe as a “devotion” to me as priest.",
+        "page_age": "2009-01-01T18:16:20",
+        "profile": {
+          "name": "Glory2godforallthings",
+          "url": "https://glory2godforallthings.com/2009/01/01/the-absent-god-introibo-ad-altare-dei/",
+          "long_name": "glory2godforallthings.com",
+          "img": "https://imgs.search.brave.com/v2Il5m-jGF9Vm7PL-jjELA-ZrYkWk8BniF-X-1XLDyQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNmZDQwMzdi/ZjZjOTA3MGY1NjFj/Y2RhYjMzNGEzZjU1/N2U3MTU3ZDgwNGQ4/Y2NlMTc3ZDgyNjRk/ZTEyNTliYy9nbG9y/eTJnb2Rmb3JhbGx0/aGluZ3MuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "glory2godforallthings.com",
+          "hostname": "glory2godforallthings.com",
+          "favicon": "https://imgs.search.brave.com/v2Il5m-jGF9Vm7PL-jjELA-ZrYkWk8BniF-X-1XLDyQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNmZDQwMzdi/ZjZjOTA3MGY1NjFj/Y2RhYjMzNGEzZjU1/N2U3MTU3ZDgwNGQ4/Y2NlMTc3ZDgyNjRk/ZTEyNTliYy9nbG9y/eTJnb2Rmb3JhbGx0/aGluZ3MuY29tLw",
+          "path": "  › home  › the absent god – introibo ad altare dei"
+        },
+        "age": "January 1, 2009",
+        "extra_snippets": [
+          "My second priest presided at the service. This dear child, unbeknownst to everyone else, was eagerly watching the altar for any sign of my presence. When the service was over and there was no Father Stephen coming out of the altar, she began to cry. That was when her mother discovered she had been looking for me all morning.",
+          "I have rarely met a young adult who had fallen away from the faith who did not have a story that included disappointment in a priest or in a layman. God, indeed have mercy on us! On the other hand – I had opportunity to meet with the Anglican priest under whom I first received my vocation to the priesthood when I was a teenager. He is now elderly and still a solid believer. He embraced me and was so glad to see the decision I had made (to be Orthodox) and with tears in his eyes he begged me to forgive him and the Church which had failed in so dramatic a way.",
+          "The other day the child pointed to the altar and said, “That’s where you live.” I was at a loss to respond. I could not look at the altar and say, “I do not live there, I only work there,” for the altar is not that sort of place. Indeed I do “live” there, and more fully than I live any other place. But it took a child to point it out to me.",
+          "I live in an altar. The one at Church reveals itself easily – even to a little girl. But it also reveals the whole world as the altar of God. And if I am to live – then I must learn to live in the abiding presence of the altar of God, who is blessed forever."
+        ]
+      },
+      {
+        "title": "Introibo Ad Altare (@IAltare) / X",
+        "url": "https://twitter.com/IAltare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The latest tweets from <strong>Introibo</strong> <strong>Ad</strong> <strong>Altare</strong> (@IAltare)",
+        "profile": {
+          "name": "X",
+          "url": "https://twitter.com/IAltare",
+          "long_name": "twitter.com",
+          "img": "https://imgs.search.brave.com/Zq483bGX0GnSgym-1P7iyOyEDX3PkDZSNT8m56F862A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/Zq483bGX0GnSgym-1P7iyOyEDX3PkDZSNT8m56F862A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› IAltare"
+        }
+      },
+      {
+        "title": "Psalm 43 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Psalm_43",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Emitte lucem tuam et fidelitatem tuam: ipsae me ducant, adducant me in montem sanctum tuum et in tabernacula tua. Et introibo ad altare Dei, <strong>ad Deum laetitiae et exsultationis meae, Et laudabo te cum cithara, Deus, Deus meus!</strong> 5 Quare deprimeris, anima mea, et tumultuaris in me?",
+        "page_age": "2024-03-23T01:44:44",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Psalm_43",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Text",
+              "url": "https://en.wikipedia.org/wiki/Psalm_43#Text"
+            },
+            {
+              "type": "button_result",
+              "title": "Verse 1",
+              "url": "https://en.wikipedia.org/wiki/Psalm_43#Verse_1"
+            },
+            {
+              "type": "button_result",
+              "title": "Uses",
+              "url": "https://en.wikipedia.org/wiki/Psalm_43#Uses"
+            },
+            {
+              "type": "button_result",
+              "title": "Latin translations",
+              "url": "https://en.wikipedia.org/wiki/Psalm_43#Latin_translations"
+            },
+            {
+              "type": "button_result",
+              "title": "Musical settings",
+              "url": "https://en.wikipedia.org/wiki/Psalm_43#Musical_settings"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Psalm_43"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/tyyHd5m3nbO8Sovxt8M-m3Xe-dkeGMM0tVAGwi7k_XQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFmL1BzYWxtNDNf/S3VyZnVlcnN0ZW5i/aWJlbC5KUEc",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Psalm43_Kurfuerstenbibel.JPG",
+          "logo": false
+        },
+        "age": "March 23, 2024",
+        "extra_snippets": [
+          "Ius redde mihi, Deus, et age causam meam adversus gentem non sanctam; ab homine doloso et iniquo libera me, Quia tu es, Deus, fortitudo mea: Quare me reppulisti? Quare tristis incedo, ab inimico oppressus? Emitte lucem tuam et fidelitatem tuam: ipsae me ducant, adducant me in montem sanctum tuum et in tabernacula tua. Et introibo ad altare Dei, ad Deum laetitiae et exsultationis meae, Et laudabo te cum cithara, Deus, Deus meus!",
+          "Emitte lucem tuam et fidelitatem tuam: ipsae me ducant, adducant me in montem sanctum tuum et in tabernacula tua. Et introibo ad altare Dei, ad Deum laetitiae et exsultationis meae, Et laudabo te cum cithara, Deus, Deus meus! 5 Quare deprimeris, anima mea, et tumultuaris in me?",
+          "Tu enim Deus fortitudo mea quare proiecisti me quare tristis incedo adfligente inimico. Mitte lucem tuam et veritatem tuam ipsae ducent me et introducent ad montem sanctum tuum et ad tabernaculum tuum. Et introibo ad altare tuum ad Deum laetitiae et exultationis meae.",
+          "Mitte lucem tuam et veritatem tuam ipsae ducent me et introducent ad montem sanctum tuum et ad tabernaculum tuum. Et introibo ad altare tuum ad Deum laetitiae et exultationis meae. Et confitebor tibi in cithara Deus Deus meus, quare incurvaris anima mea et quare conturbas me?",
+          "Psalm 43 is the 43rd psalm of the Book of Psalms, known in the English King James Version as \"Judge me, O God, and plead my cause against an ungodly nation\". In the slightly different numbering system used in the Greek Septuagint and Latin Vulgate translations of the Bible, this psalm is Psalm 42."
+        ]
+      },
+      {
+        "title": "Introíbo ad Altáre Dei – the Prayer and the Posters",
+        "url": "https://www.thomryng.com/amateurmonk/introibo-ad-altare-dei-the-prayer-and-the-posters/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Fratres : Sóbrii estóte, et vigiláte : quia adversárius vester diábolus tamquam leo rúgiens circuit, quærens quem dévoret : cui resístite fortes in fide</strong>. Brethren, be sober, be watchful. Your adversary the devil prowls around like a roaring lion, seeking some one to devour.",
+        "page_age": "2019-03-28T16:52:59",
+        "profile": {
+          "name": "Thomryng",
+          "url": "https://www.thomryng.com/amateurmonk/introibo-ad-altare-dei-the-prayer-and-the-posters/",
+          "long_name": "thomryng.com",
+          "img": "https://imgs.search.brave.com/A6kV0fQ5qD2q2Vs0wzrDPZOJpb0lj_ULQbGsSEqSIVg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkMDA5M2Ew/MTNhZjZkZDhlMjVh/ZDk2MmVkYTg0MTMz/YTFiZjQ2ZGEyMjQx/N2Y1ODFjNWQwYjI3/N2E1YjYyYy93d3cu/dGhvbXJ5bmcuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thomryng.com",
+          "hostname": "www.thomryng.com",
+          "favicon": "https://imgs.search.brave.com/A6kV0fQ5qD2q2Vs0wzrDPZOJpb0lj_ULQbGsSEqSIVg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkMDA5M2Ew/MTNhZjZkZDhlMjVh/ZDk2MmVkYTg0MTMz/YTFiZjQ2ZGEyMjQx/N2Y1ODFjNWQwYjI3/N2E1YjYyYy93d3cu/dGhvbXJ5bmcuY29t/Lw",
+          "path": "› amateurmonk  › introibo-ad-altare-dei-the-prayer-and-the-posters"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HmrV0_WJwvl-rJs10DrpCyGqtkY-Obz711_VEzmBj30/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnRo/b21yeW5nLmNvbS9h/bWF0ZXVybW9uay93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/OS9JbnRyb2liby1h/ZC1hbHRhcmUtRGVp/LmpwZz9maXQ9NTg0/JTJDODc3JiMwMzg7/c3NsPTE",
+          "original": "https://i0.wp.com/www.thomryng.com/amateurmonk/wp-content/uploads/2017/09/Introibo-ad-altare-Dei.jpg?fit=584%2C877&#038;ssl=1",
+          "logo": false
+        },
+        "age": "March 28, 2019",
+        "extra_snippets": [
+          "Well, since we were forced to move to the auditorium this past November, we pray it in the hallway outside. This psalm begins with the antiphon, “I will go to the altar of God”, or in Latin, “Introíbo ad altáre Dei”. Liturgy geeks will recognize this as the psalm that in the Extraordinary Form is part of the prayers at the foot of the altar.",
+          "This psalm begins with the antiphon, “I will go to the altar of God”, or in Latin, “Introíbo ad altáre Dei”. Liturgy geeks will recognize this as the psalm that in the Extraordinary Form is part of the prayers at the foot of the altar. Even though this prayer was removed from the Mass in 1964, there is no reason not to pray it beforehand. Indeed, historically this prayer was intended to be said in preparation for Mass and gradually got absorbed into the Mass. When Rome removed it, I believe they intended that it be returned to its historic place as a devotion of the ministers before Mass.",
+          "Fratres : Sóbrii estóte, et vigiláte : quia adversárius vester diábolus tamquam leo rúgiens circuit, quærens quem dévoret : cui resístite fortes in fide. Brethren, be sober, be watchful. Your adversary the devil prowls around like a roaring lion, seeking some one to devour. Resist him, firm in your faith.",
+          "Theirs was the religion of Saint John and of Saint Paul, the religion of the Gloria in Excelsis Deo, of the Athanasian Creed, and of the Te Deum Laudamus: Trinitarian, Christological, liturgical, and ecclesial."
+        ]
+      },
+      {
+        "title": "Introibo ad altare Dei - The Cracked Looking Glass",
+        "url": "https://thecrackedlookingglass.com/glossary/introibo-ad-altare-dei/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "by upright | Dec 22, 2022 · Translation “I will go up to the <strong>altar</strong> of God.”",
+        "page_age": "2022-12-22T13:57:38",
+        "profile": {
+          "name": "Thecrackedlookingglass",
+          "url": "https://thecrackedlookingglass.com/glossary/introibo-ad-altare-dei/",
+          "long_name": "thecrackedlookingglass.com",
+          "img": "https://imgs.search.brave.com/Hmw1hRdAUOvTdsgMwpe-cV4IxWYlK03XYM5AnWo5ZIY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxNDliNDhm/ZjBkYjBiYTlhNDhm/NzRmOTFiMjMxODJh/ZDFiYTVkZDY5YTRk/ODcwY2QzOWZlMGI3/YzBlODE5Zi90aGVj/cmFja2VkbG9va2lu/Z2dsYXNzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thecrackedlookingglass.com",
+          "hostname": "thecrackedlookingglass.com",
+          "favicon": "https://imgs.search.brave.com/Hmw1hRdAUOvTdsgMwpe-cV4IxWYlK03XYM5AnWo5ZIY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxNDliNDhm/ZjBkYjBiYTlhNDhm/NzRmOTFiMjMxODJh/ZDFiYTVkZDY5YTRk/ODcwY2QzOWZlMGI3/YzBlODE5Zi90aGVj/cmFja2VkbG9va2lu/Z2dsYXNzLmNvbS8",
+          "path": "  › home  › tooltips  › introibo ad altare dei"
+        },
+        "age": "December 22, 2022"
+      },
+      {
+        "title": "From the Chapel -- March 16: Introibo ad altare Dei",
+        "url": "https://www.oursundayvisitor.com/from-the-chapel-march-16-introibo-ad-altare-dei/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In his &quot;From the Chapel&quot; post today, publisher Scott Richert reflects on serving a private Mass with Monsignor Campion in the Chapel of the Holy Spirit at Our Sunday Visitor, &quot;We lit the <strong>altar</strong> but kept the rest of the chapel dark. I read the first reading and the psalm, and Monsignor the Gospel, ...",
+        "page_age": "2020-03-16T22:33:26",
+        "profile": {
+          "name": "Our Sunday Visitor",
+          "url": "https://www.oursundayvisitor.com/from-the-chapel-march-16-introibo-ad-altare-dei/",
+          "long_name": "oursundayvisitor.com",
+          "img": "https://imgs.search.brave.com/eYGVpmsDR1g2KQw4QpadGuWobn6VRzE8GB6SvGgdJJ0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAwMjBiOTIx/Y2FiNzMyNWVjZmNk/Y2ZkYjQ1MzcwYmQz/MTI3MjAxNWE0ZDdh/NTAzNWRkNzY0MzE4/NzJjNzcwOC93d3cu/b3Vyc3VuZGF5dmlz/aXRvci5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "oursundayvisitor.com",
+          "hostname": "www.oursundayvisitor.com",
+          "favicon": "https://imgs.search.brave.com/eYGVpmsDR1g2KQw4QpadGuWobn6VRzE8GB6SvGgdJJ0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAwMjBiOTIx/Y2FiNzMyNWVjZmNk/Y2ZkYjQ1MzcwYmQz/MTI3MjAxNWE0ZDdh/NTAzNWRkNzY0MzE4/NzJjNzcwOC93d3cu/b3Vyc3VuZGF5dmlz/aXRvci5jb20v",
+          "path": "  › home  › from the chapel — march 16: introibo ad altare dei"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/FEIFZhjEyJsjXwD1caYU80y4wyVqS4gHhFHAgxIFxfg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/b3Vyc3VuZGF5dmlz/aXRvci5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDMv/SU1HXzEzMTAuanBn",
+          "original": "https://www.oursundayvisitor.com/wp-content/uploads/2020/03/IMG_1310.jpg",
+          "logo": false
+        },
+        "age": "March 16, 2020",
+        "article": {
+          "author": [{ "type": "person", "name": "Scott P. Richert" }],
+          "date": "Mar 16, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Our Sunday Visitor",
+            "url": "https://www.oursundayvisitor.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/hOsXl7lJBxigVcYvze_76DtPUTqmFeGRAab-dq9XY-k/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/b3Vyc3VuZGF5dmlz/aXRvci5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDgv/Y3JvcHBlZC1vc3Yt/UkVELXRyYW5zcGFy/ZW50LTUxMi1jb3B5/Mi5wbmc",
+              "original": "https://www.oursundayvisitor.com/wp-content/uploads/2019/08/cropped-osv-RED-transparent-512-copy2.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Undeterred, Father Smith calls his bluff, and the two begin the Mass (as every Latin Mass begins) with the words of Psalm 42: Introibo ad altare Dei. Ad Deum qui laetificat juventutem meum. (“I will go into the altar of my God.” “To God who gives joy to my youth.”",
+          "In his \"From the Chapel\" post today, publisher Scott Richert reflects on serving a private Mass with Monsignor Campion in the Chapel of the Holy Spirit at Our Sunday Visitor, \"We lit the altar but kept the rest of the chapel dark. I read the first reading and the psalm, and Monsignor the Gospel, into a darkened and empty space.",
+          "We lit the altar but kept the rest of the chapel dark. I read the first reading and the psalm, and Monsignor the Gospel, into a darkened and empty space. There was no homily."
+        ]
+      },
+      {
+        "title": "Introibo ad Altare Dei - YouTube",
+        "url": "https://www.youtube.com/watch?v=l6zIzakQF4E",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Purchase Fr. Daniel&#x27;s book, quoted in this video by Br. Leven, on the Abbey&#x27;s website: https://www.kansasmonks.org/shop/come-into-the-lightThe schola of St.",
+        "page_age": "2023-02-02T17:20:16",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=l6zIzakQF4E",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › kansasmonks"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/eH_MEZ84yCfMr2_YRmdTeH4fBZUq3h5UWz2egGpqQ8k/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9s/NnpJemFrUUY0RS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0VR/Z1pTaGhNQTg9JmFt/cDtycz1BT240Q0xD/OFZycTE1dVZETzk1/Qk9KRi1ndzF1THBq/bUt3",
+          "original": "https://i.ytimg.com/vi/l6zIzakQF4E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgZShhMA8=&amp;rs=AOn4CLC8Vrq15uVDO95BOJF-gw1uLpjmKw",
+          "logo": false
+        },
+        "age": "February 2, 2023",
+        "video": {
+          "duration": "04:40",
+          "views": "2K",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/9v3-AsBlOHbluZ_zaQe68VDArEJI1rgWyJKx-jW1BsU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9s/NnpJemFrUUY0RS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0VR/Z1pTaGhNQTg9JnJz/PUFPbjRDTEM4VnJx/MTV1VkRPOTVCT0pG/LWd3MXVMcGptS3c",
+            "original": "https://i.ytimg.com/vi/l6zIzakQF4E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgZShhMA8=&rs=AOn4CLC8Vrq15uVDO95BOJF-gw1uLpjmKw"
+          }
+        },
+        "extra_snippets": [
+          "Purchase Fr. Daniel's book, quoted in this video by Br. Leven, on the Abbey's website: https://www.kansasmonks.org/shop/come-into-the-lightThe schola of St. ..."
+        ]
+      }
+    ],
+    "family_friendly": true
+  },
+  "summarizer": {
+    "type": "summarizer",
+    "key": "{\"query\":\"Introibo ad altare Dei\",\"country\":\"us\",\"language\":\"en\",\"safesearch\":\"moderate\",\"results_hash\":\"872acfba38de4f49ee3101322fcc113d5ffbc2917f19cf2f3a5bcd0ea1b87aaa\"}"
+  }
+}
